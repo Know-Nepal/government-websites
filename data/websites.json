@@ -1,19 +1,9 @@
 {
   "items": [
     {
-      "name": "Nepal Government National Portal",
-      "url": "http://www.nepal.gov.np/",
-      "description": "The Official Portal of Government of Nepal"
-    },
-    {
-      "name": "Ministry of Foreign Affairs Nepal MOFA",
-      "url": "https://mofa.gov.np/",
-      "description": "Nepal Government Foreign Affairs Nepal MOFA Official Site"
-    },
-    {
-      "name": "Office of the Prime Minister and Council of Ministers",
-      "url": "https://opmcm.gov.np/",
-      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
+      "name": "Armed Police Force(APF)",
+      "url": "http://www.apf.gov.np/",
+      "description": "Armed Police Force(APF) is the largest police force in Nepal."
     },
     {
       "name": "Government of Nepal Ministry Of Youth and Sports",
@@ -21,18 +11,29 @@
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
     },
     {
+      "name": "Ministry of Foreign Affairs Nepal MOFA",
+      "url": "https://mofa.gov.np/",
+      "description": "Nepal Government Foreign Affairs Nepal MOFA Official Site"
+    },
+    {
       "name": "Ministry of Health and Population",
       "url": "https://mohp.gov.np/",
       "description": "Government of Nepal Ministry of Health and Population's official website"
     },
-      "name": "Armed Police Force(APF)",
-      "url": "http://www.apf.gov.np/",
-      "description": "Armed Police Force(APF) is the largest police force in Nepal."
+    {
+      "name": "Nepal Government National Portal",
+      "url": "http://www.nepal.gov.np/",
+      "description": "The Official Portal of Government of Nepal"
     },
     {
       "name": "Nepal Law Commission",
       "url": "http://www.lawcommission.gov.np/",
       "description": "Nepal Law Commission is an institutional arrangement of the law-making process."
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://opmcm.gov.np/",
+      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
     }
   ]
 }
