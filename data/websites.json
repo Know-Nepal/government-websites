@@ -4,6 +4,11 @@
       "name": "Nepal Government National Portal",
       "url": "http://www.nepal.gov.np/",
       "description": "The Official Portal of Government of Nepal"
+    },
+    {
+      "name": "Ministry of Foreign Affairs Nepal MOFA",
+      "url": "https://mofa.gov.np/",
+      "description": "Nepal Government  Foreign Affairs Nepal MOFA Official Site"
     }
   ]
 }
