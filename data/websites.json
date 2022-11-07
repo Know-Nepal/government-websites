@@ -1,7 +1,9 @@
-[
-  {
-    "name": "Nepal Government National Portal",
-    "url": "http://www.nepal.gov.np/",
-    "description": "The Official Portal of Government of Nepal"
-  }
-]
+{
+  "items": [
+    {
+      "name": "Nepal Government National Portal",
+      "url": "http://www.nepal.gov.np/",
+      "description": "The Official Portal of Government of Nepal"
+    }
+  ]
+}
