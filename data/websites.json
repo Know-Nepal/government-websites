@@ -8,7 +8,22 @@
     {
       "name": "Ministry of Foreign Affairs Nepal MOFA",
       "url": "https://mofa.gov.np/",
-      "description": "Nepal Government  Foreign Affairs Nepal MOFA Official Site"
+      "description": "Nepal Government Foreign Affairs Nepal MOFA Official Site"
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://opmcm.gov.np/",
+      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
+    },
+    {
+      "name": "Government of Nepal Ministry Of Youth and Sports",
+      "url": "https://moys.gov.np/",
+      "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
+    },
+    {
+      "name": "Ministry of Health and Population",
+      "url": "https://mohp.gov.np/",
+      "description": "Government of Nepal Ministry of Health and Population"
     }
   ]
 }
