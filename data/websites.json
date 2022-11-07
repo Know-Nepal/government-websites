@@ -24,6 +24,15 @@
       "name": "Ministry of Health and Population",
       "url": "https://mohp.gov.np/",
       "description": "Government of Nepal Ministry of Health and Population's official website"
+    },
+      "name": "Armed Police Force(APF)",
+      "url": "http://www.apf.gov.np/",
+      "description": "Armed Police Force(APF) is the largest police force in Nepal."
+    },
+    {
+      "name": "Nepal Law Commission",
+      "url": "http://www.lawcommission.gov.np/",
+      "description": "Nepal Law Commission is an institutional arrangement of the law-making process."
     }
   ]
 }
