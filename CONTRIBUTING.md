@@ -4,9 +4,13 @@ The file will be in `.json` and the format of the data will be as follows _(Extr
 
 ```json
 {
-  "name": "Some Gov Website",
-  "url": "https://somewebsite.gov.np",
-  "description": "This office does so and so!"
+  "items": [
+    {
+      "name": "Some Gov Website",
+      "url": "http://www.somewebsite.gov.np/",
+      "description": "The website description"
+    }
+  ]
 }
 ```
 
