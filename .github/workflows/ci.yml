@@ -1,8 +1,6 @@
 name: Continuous Integration
 
-on:
-  pull_request:
-    branches: [main]
+on: [push]
 
 jobs:
   prettier:
