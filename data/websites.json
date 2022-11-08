@@ -6,9 +6,19 @@
       "description": "Armed Police Force(APF) is the largest police force in Nepal."
     },
     {
+      "name": "Election Commission",
+        "url": "https://election.gov.np/",
+        "description": "Election Commission Nepal's Official Website"
+      },
+    {
       "name": "Government of Nepal Ministry Of Youth and Sports",
       "url": "https://moys.gov.np/",
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
+    },
+    {
+    "name": "Inland Revenue Department",
+      "url": "https://ird.gov.np/",
+      "description": "Inland Revenue Department's Official Site"
     },
     {
       "name": "Ministry of Foreign Affairs Nepal MOFA",
