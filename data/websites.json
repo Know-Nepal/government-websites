@@ -31,6 +31,11 @@
       "description": "Government of Nepal Ministry of Health and Population's official website"
     },
     {
+      "name": "National Examinations Board",
+      "url": "https://www.neb.gov.np/",
+      "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
+    },
+    {
       "name": "Nepal Government National Portal",
       "url": "http://www.nepal.gov.np/",
       "description": "The Official Portal of Government of Nepal"
@@ -44,11 +49,6 @@
       "name": "Office of the Prime Minister and Council of Ministers",
       "url": "https://opmcm.gov.np/",
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
-    },
-    {
-      "name": "National Examinations Board",
-      "url": "https://www.neb.gov.np/",
-      "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
     }
   ]
 }
