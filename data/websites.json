@@ -46,14 +46,14 @@
       "description": "Nepal Law Commission is an institutional arrangement of the law-making process."
     },
     {
-      "name": "Office of the Prime Minister and Council of Ministers",
-      "url": "https://opmcm.gov.np/",
-      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
-    },
-    {
       "name": "Nepal Police",
       "url": "https://nepalpolice.gov.np",
       "description": "Official Website Of Nepal Police"
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://opmcm.gov.np/",
+      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
     },
     {
       "name": "Supreme Court",
