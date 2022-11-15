@@ -61,6 +61,96 @@
       "description": "Official Website Of Supreme Court of Nepal"
     },
     {
+      "name": "Ministry of Defence",
+      "url": "https://mod.gov.np",
+      "description": "Official Website Of Ministry of Defence"
+    },
+    {
+      "name": "Ministry of Home Affairs (MOHA)",
+      "url": "https://www.moha.gov.np",
+      "description": "Official Website Of Ministry of Home Affairs"
+    },
+    {
+      "name": "Ministry of Federal Affairs & General Administration (MOFAGA)",
+      "url": "https://mofaga.gov.np",
+      "description": "Official Website Of Ministry of Federal Affairs & General Administration (MOFAGA)"
+    },
+    {
+      "name": "Ministry of Education, Science and Technology (MOE)",
+      "url": "https://moe.gov.np",
+      "description": "Official Website Of Ministry of Education, Science and Technology (MOE)"
+    },
+    {
+      "name": "Ministry of Energy, Water Resources and Irrigation (MOEWRI)",
+      "url": "https://www.moewri.gov.np",
+      "description": "Official Website Of Ministry of Energy, Water Resources and Irrigation (MOEWRI)"
+    },
+    {
+      "name": "Ministry of Agriculture and Livestock Development (MOALD)",
+      "url": "https://www.moald.gov.np",
+      "description": "Official Website Of Ministry of Agriculture and Livestock Development (MOALD)"
+    },
+    {
+      "name": "Ministry of Industry, Commerce and Supplies (MOICS)",
+      "url": "https://moics.gov.np",
+      "description": "Official Website Of Ministry of Industry, Commerce and Supplies (MOICS)"
+    },
+    {
+      "name": "Ministry of Culture, Tourism and Civil Aviation (TOURISM)",
+      "url": "https://www.tourism.gov.np",
+      "description": "Official Website Of Ministry of Culture, Tourism and Civil Aviation (TOURISM)"
+    },
+    {
+      "name": "Ministry of Forests and Environment (MOFE)",
+      "url": "https://mofe.gov.np",
+      "description": "Official Website Of Ministry of Forests and Environment (MOFE)"
+    },
+    {
+      "name": "Ministry of Labour, Employment and Social Security (MOLESS)",
+      "url": "https://moless.gov.np",
+      "description": "Official Website Of Ministry of Labour, Employment and Social Security (MOLESS)"
+    },
+    {
+      "name": "Ministry of Finance (MOF)",
+      "url": "https://mof.gov.np",
+      "description": "Official Website Of Ministry of Finance (MOF)"
+    },
+    {
+      "name": "Ministry of Communications and Information Technology (MOCIT)",
+      "url": "https://mocit.gov.np",
+      "description": "Official Website Of Ministry of Communications and Information Technology (MOCIT)"
+    },
+    {
+      "name": "Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)",
+      "url": "https://molcpa.gov.np",
+      "description": "Official Website Of Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)"
+    },
+    {
+      "name": "Ministry of Water Supply (MOWSS)",
+      "url": "https://mowss.gov.np",
+      "description": "Official Website Of Ministry of Water Supply (MOWSS)"
+    },
+    {
+      "name": "Ministry of Physical Infrastructure and Transportation (MOPIT)",
+      "url": "https://www.mopit.gov.np",
+      "description": "Official Website Of Ministry of Physical Infrastructure and Transportation (MOPIT)"
+    },
+    {
+      "name": "Ministry of Urban Development (MOUD)",
+      "url": "https://moud.gov.np",
+      "description": "Official Website Of Ministry of Urban Development (MOUD)"
+    },
+    {
+      "name": "Ministry of Women, Children and Senior Citizen (MOWCSC)",
+      "url": "https://mowcsc.gov.np",
+      "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
+    },
+    {
+      "name": "Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)",
+      "url": "https://www.moljpa.gov.np",
+      "description": "Official Website Of Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)"
+    },
+    {
       "name": "DEPARTMENT OF INFORMATION TECHNOLOGY",
       "url": "https://doit.gov.np/en",
       "description": "Government of Nepal Ministry of Communication and Information Technology"
