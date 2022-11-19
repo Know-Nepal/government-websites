@@ -189,6 +189,61 @@
       "name": "Karnali Pradesh",
       "url": "http://karnali.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
+      "name": "Kathmandu Metropolitan City",
+      "url": "https://kathmandu.gov.np/?lang=en",
+      "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Commission for the Investigation of Abuse of Authority",
+      "url": "https://ciaa.gov.np/",
+      "description": "Official Website for CIAA Nepal"
+    },
+    {
+      "name": "Public Service Commission",
+      "url": "https://psc.gov.np/",
+      "description": "Official Website of Lok Sewa Aayog | PSC"
+    },
+    {
+     "name": "National Health Research Council",
+     "url": "https://nhrc.gov.np/",
+     "description": "Official Website of NHRC" 
+    },
+    {
+      "name": "National Human Rights Commission",
+      "url": "https://www.nhrcnepal.org/",
+      "description": "Official Website of National Human Rights Commision"
+    },
+    {
+      "name": "Department of Archaeology",
+      "url": "http://www.doa.gov.np/",
+      "description": "Official Website for Deparment of Archaeology Nepal"
+    },
+    {
+      "name": "Department of Agriculture",
+      "url": "http://doanepal.gov.np/home",
+      "description": "Department of Agriculture Nepal"
+    },
+    {
+      "name" : "Department of Passport",
+      "url": "https://nepalpassport.gov.np/",
+      "description": "Official Website of Department of Passport Nepal"
+    },
+    {
+      "name": "Department of Transport Management",
+      "url": "https://www.dotm.gov.np/",
+      "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "Nepal Rastra Bank",
+      "url": "https://www.nrb.org.np/",
+      "description": "Official Website for the Central Bank of Nepal"
+    },
+    {
+      "name": "Nepal Telecommunication Authority",
+      "url": "https://www.nta.gov.np/en/",
+      "description": "Official Website of Nepal Telecommunication Authority"
     }
   ]
 }
