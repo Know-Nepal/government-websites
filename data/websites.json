@@ -206,9 +206,9 @@
       "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
-     "name": "National Health Research Council",
-     "url": "https://nhrc.gov.np/",
-     "description": "Official Website of NHRC" 
+      "name": "National Health Research Council",
+      "url": "https://nhrc.gov.np/",
+      "description": "Official Website of NHRC"
     },
     {
       "name": "National Human Rights Commission",
@@ -226,7 +226,7 @@
       "description": "Department of Agriculture Nepal"
     },
     {
-      "name" : "Department of Passport",
+      "name": "Department of Passport",
       "url": "https://nepalpassport.gov.np/",
       "description": "Official Website of Department of Passport Nepal"
     },
