@@ -6,9 +6,49 @@
       "description": "Armed Police Force(APF) is the largest police force in Nepal."
     },
     {
+      "name": "Bagmati Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "http://ocmcm.bagamati.gov.np/",
+      "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
+    },
+    {
+      "name": "Commission for the Investigation of Abuse of Authority",
+      "url": "https://ciaa.gov.np/",
+      "description": "Official Website for CIAA Nepal"
+    },
+    {
+      "name": "Department of Agriculture",
+      "url": "http://doanepal.gov.np/home",
+      "description": "Department of Agriculture Nepal"
+    },
+    {
+      "name": "Department of Archaeology",
+      "url": "http://www.doa.gov.np/",
+      "description": "Official Website for Deparment of Archaeology Nepal"
+    },
+    {
+      "name": "DEPARTMENT OF INFORMATION TECHNOLOGY",
+      "url": "https://doit.gov.np/en",
+      "description": "Government of Nepal Ministry of Communication and Information Technology"
+    },
+    {
+      "name": "Department of Passport",
+      "url": "https://nepalpassport.gov.np/",
+      "description": "Official Website of Department of Passport Nepal"
+    },
+    {
+      "name": "Department of Transport Management",
+      "url": "https://www.dotm.gov.np/",
+      "description": "Official Website of Department of Transport Management"
+    },
+    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
+    },
+    {
+      "name": "Gandaki Pradesh",
+      "url": "https://gandaki.gov.np/",
+      "description": "Official Website of Portal to Gandaki Pradesh"
     },
     {
       "name": "Government of Nepal Ministry Of Youth and Sports",
@@ -21,9 +61,74 @@
       "description": "Inland Revenue Department's Official Site"
     },
     {
+      "name": "Karnali Pradesh",
+      "url": "http://karnali.gov.np/",
+      "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
+      "name": "Kathmandu Metropolitan City",
+      "url": "https://kathmandu.gov.np/?lang=en",
+      "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Lumbini Pradesh",
+      "url": "https://ocmcm.lumbini.gov.np/",
+      "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
+    },
+    {
+      "name": "Madhesh Pradesh",
+      "url": "https://madhesh.gov.np/",
+      "description": "Official Website of Portal to Madhesh Pradesh"
+    },
+    {
+      "name": "Ministry of Agriculture and Livestock Development (MOALD)",
+      "url": "https://www.moald.gov.np",
+      "description": "Official Website Of Ministry of Agriculture and Livestock Development (MOALD)"
+    },
+    {
+      "name": "Ministry of Communications and Information Technology (MOCIT)",
+      "url": "https://mocit.gov.np",
+      "description": "Official Website Of Ministry of Communications and Information Technology (MOCIT)"
+    },
+    {
+      "name": "Ministry of Culture, Tourism and Civil Aviation (TOURISM)",
+      "url": "https://www.tourism.gov.np",
+      "description": "Official Website Of Ministry of Culture, Tourism and Civil Aviation (TOURISM)"
+    },
+    {
+      "name": "Ministry of Defence",
+      "url": "https://mod.gov.np",
+      "description": "Official Website Of Ministry of Defence"
+    },
+    {
+      "name": "Ministry of Education, Science and Technology (MOE)",
+      "url": "https://moe.gov.np",
+      "description": "Official Website Of Ministry of Education, Science and Technology (MOE)"
+    },
+    {
+      "name": "Ministry of Energy, Water Resources and Irrigation (MOEWRI)",
+      "url": "https://www.moewri.gov.np",
+      "description": "Official Website Of Ministry of Energy, Water Resources and Irrigation (MOEWRI)"
+    },
+    {
+      "name": "Ministry of Federal Affairs & General Administration (MOFAGA)",
+      "url": "https://mofaga.gov.np",
+      "description": "Official Website Of Ministry of Federal Affairs & General Administration (MOFAGA)"
+    },
+    {
+      "name": "Ministry of Finance (MOF)",
+      "url": "https://mof.gov.np",
+      "description": "Official Website Of Ministry of Finance (MOF)"
+    },
+    {
       "name": "Ministry of Foreign Affairs Nepal MOFA",
       "url": "https://mofa.gov.np/",
       "description": "Nepal Government Foreign Affairs Nepal MOFA Official Site"
+    },
+    {
+      "name": "Ministry of Forests and Environment (MOFE)",
+      "url": "https://mofe.gov.np",
+      "description": "Official Website Of Ministry of Forests and Environment (MOFE)"
     },
     {
       "name": "Ministry of Health and Population",
@@ -31,9 +136,64 @@
       "description": "Government of Nepal Ministry of Health and Population's official website"
     },
     {
+      "name": "Ministry of Home Affairs (MOHA)",
+      "url": "https://www.moha.gov.np",
+      "description": "Official Website Of Ministry of Home Affairs"
+    },
+    {
+      "name": "Ministry of Industry, Commerce and Supplies (MOICS)",
+      "url": "https://moics.gov.np",
+      "description": "Official Website Of Ministry of Industry, Commerce and Supplies (MOICS)"
+    },
+    {
+      "name": "Ministry of Labour, Employment and Social Security (MOLESS)",
+      "url": "https://moless.gov.np",
+      "description": "Official Website Of Ministry of Labour, Employment and Social Security (MOLESS)"
+    },
+    {
+      "name": "Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)",
+      "url": "https://molcpa.gov.np",
+      "description": "Official Website Of Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)"
+    },
+    {
+      "name": "Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)",
+      "url": "https://www.moljpa.gov.np",
+      "description": "Official Website Of Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)"
+    },
+    {
+      "name": "Ministry of Physical Infrastructure and Transportation (MOPIT)",
+      "url": "https://www.mopit.gov.np",
+      "description": "Official Website Of Ministry of Physical Infrastructure and Transportation (MOPIT)"
+    },
+    {
+      "name": "Ministry of Urban Development (MOUD)",
+      "url": "https://moud.gov.np",
+      "description": "Official Website Of Ministry of Urban Development (MOUD)"
+    },
+    {
+      "name": "Ministry of Water Supply (MOWSS)",
+      "url": "https://mowss.gov.np",
+      "description": "Official Website Of Ministry of Water Supply (MOWSS)"
+    },
+    {
+      "name": "Ministry of Women, Children and Senior Citizen (MOWCSC)",
+      "url": "https://mowcsc.gov.np",
+      "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
+    },
+    {
       "name": "National Examinations Board",
       "url": "https://www.neb.gov.np/",
       "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
+    },
+    {
+      "name": "National Health Research Council",
+      "url": "https://nhrc.gov.np/",
+      "description": "Official Website of NHRC"
+    },
+    {
+      "name": "National Human Rights Commission",
+      "url": "https://www.nhrcnepal.org/",
+      "description": "Official Website of National Human Rights Commision"
     },
     {
       "name": "Nepal Government National Portal",
@@ -51,191 +211,6 @@
       "description": "Official Website Of Nepal Police"
     },
     {
-      "name": "Office of the Prime Minister and Council of Ministers",
-      "url": "https://opmcm.gov.np/",
-      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
-    },
-    {
-      "name": "Supreme Court",
-      "url": "https://supremecourt.gov.np",
-      "description": "Official Website Of Supreme Court of Nepal"
-    },
-    {
-      "name": "Ministry of Defence",
-      "url": "https://mod.gov.np",
-      "description": "Official Website Of Ministry of Defence"
-    },
-    {
-      "name": "Ministry of Home Affairs (MOHA)",
-      "url": "https://www.moha.gov.np",
-      "description": "Official Website Of Ministry of Home Affairs"
-    },
-    {
-      "name": "Ministry of Federal Affairs & General Administration (MOFAGA)",
-      "url": "https://mofaga.gov.np",
-      "description": "Official Website Of Ministry of Federal Affairs & General Administration (MOFAGA)"
-    },
-    {
-      "name": "Ministry of Education, Science and Technology (MOE)",
-      "url": "https://moe.gov.np",
-      "description": "Official Website Of Ministry of Education, Science and Technology (MOE)"
-    },
-    {
-      "name": "Ministry of Energy, Water Resources and Irrigation (MOEWRI)",
-      "url": "https://www.moewri.gov.np",
-      "description": "Official Website Of Ministry of Energy, Water Resources and Irrigation (MOEWRI)"
-    },
-    {
-      "name": "Ministry of Agriculture and Livestock Development (MOALD)",
-      "url": "https://www.moald.gov.np",
-      "description": "Official Website Of Ministry of Agriculture and Livestock Development (MOALD)"
-    },
-    {
-      "name": "Ministry of Industry, Commerce and Supplies (MOICS)",
-      "url": "https://moics.gov.np",
-      "description": "Official Website Of Ministry of Industry, Commerce and Supplies (MOICS)"
-    },
-    {
-      "name": "Ministry of Culture, Tourism and Civil Aviation (TOURISM)",
-      "url": "https://www.tourism.gov.np",
-      "description": "Official Website Of Ministry of Culture, Tourism and Civil Aviation (TOURISM)"
-    },
-    {
-      "name": "Ministry of Forests and Environment (MOFE)",
-      "url": "https://mofe.gov.np",
-      "description": "Official Website Of Ministry of Forests and Environment (MOFE)"
-    },
-    {
-      "name": "Ministry of Labour, Employment and Social Security (MOLESS)",
-      "url": "https://moless.gov.np",
-      "description": "Official Website Of Ministry of Labour, Employment and Social Security (MOLESS)"
-    },
-    {
-      "name": "Ministry of Finance (MOF)",
-      "url": "https://mof.gov.np",
-      "description": "Official Website Of Ministry of Finance (MOF)"
-    },
-    {
-      "name": "Ministry of Communications and Information Technology (MOCIT)",
-      "url": "https://mocit.gov.np",
-      "description": "Official Website Of Ministry of Communications and Information Technology (MOCIT)"
-    },
-    {
-      "name": "Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)",
-      "url": "https://molcpa.gov.np",
-      "description": "Official Website Of Ministry of Land Management, Cooperatives and Poverty Alleviation (MOLCPA)"
-    },
-    {
-      "name": "Ministry of Water Supply (MOWSS)",
-      "url": "https://mowss.gov.np",
-      "description": "Official Website Of Ministry of Water Supply (MOWSS)"
-    },
-    {
-      "name": "Ministry of Physical Infrastructure and Transportation (MOPIT)",
-      "url": "https://www.mopit.gov.np",
-      "description": "Official Website Of Ministry of Physical Infrastructure and Transportation (MOPIT)"
-    },
-    {
-      "name": "Ministry of Urban Development (MOUD)",
-      "url": "https://moud.gov.np",
-      "description": "Official Website Of Ministry of Urban Development (MOUD)"
-    },
-    {
-      "name": "Ministry of Women, Children and Senior Citizen (MOWCSC)",
-      "url": "https://mowcsc.gov.np",
-      "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
-    },
-    {
-      "name": "Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)",
-      "url": "https://www.moljpa.gov.np",
-      "description": "Official Website Of Ministry of Law, Justice and Parliamentary Affairs (MOLJPA)"
-    },
-    {
-      "name": "DEPARTMENT OF INFORMATION TECHNOLOGY",
-      "url": "https://doit.gov.np/en",
-      "description": "Government of Nepal Ministry of Communication and Information Technology"
-    },
-    {
-      "name": "Bagmati Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "http://ocmcm.bagamati.gov.np/",
-      "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
-    },
-    {
-      "name": "Madhesh Pradesh",
-      "url": "https://madhesh.gov.np/",
-      "description": "Official Website of Portal to Madhesh Pradesh"
-    },
-    {
-      "name": "Gandaki Pradesh",
-      "url": "https://gandaki.gov.np/",
-      "description": "Official Website of Portal to Gandaki Pradesh"
-    },
-    {
-      "name": "Pradesh No. 1",
-      "url": "https://p1.gov.np/",
-      "description": "Official Website of Portal to Pradesh No. 1"
-    },
-    {
-      "name": "Sudurpaschim Pradesh",
-      "url": "https://sudurpashchim.gov.np/",
-      "description": "Official Website of Portal to Sudurpaschim Pradesh"
-    },
-    {
-      "name": "Lumbini Pradesh",
-      "url": "https://ocmcm.lumbini.gov.np/",
-      "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
-    },
-    {
-      "name": "Karnali Pradesh",
-      "url": "http://karnali.gov.np/",
-      "description": "Official Website of Portal to Karnali Pradesh"
-    },
-    {
-      "name": "Kathmandu Metropolitan City",
-      "url": "https://kathmandu.gov.np/?lang=en",
-      "description": "Official Website of Government of Kathmandu Metropolitan City"
-    },
-    {
-      "name": "Commission for the Investigation of Abuse of Authority",
-      "url": "https://ciaa.gov.np/",
-      "description": "Official Website for CIAA Nepal"
-    },
-    {
-      "name": "Public Service Commission",
-      "url": "https://psc.gov.np/",
-      "description": "Official Website of Lok Sewa Aayog | PSC"
-    },
-    {
-      "name": "National Health Research Council",
-      "url": "https://nhrc.gov.np/",
-      "description": "Official Website of NHRC"
-    },
-    {
-      "name": "National Human Rights Commission",
-      "url": "https://www.nhrcnepal.org/",
-      "description": "Official Website of National Human Rights Commision"
-    },
-    {
-      "name": "Department of Archaeology",
-      "url": "http://www.doa.gov.np/",
-      "description": "Official Website for Deparment of Archaeology Nepal"
-    },
-    {
-      "name": "Department of Agriculture",
-      "url": "http://doanepal.gov.np/home",
-      "description": "Department of Agriculture Nepal"
-    },
-    {
-      "name": "Department of Passport",
-      "url": "https://nepalpassport.gov.np/",
-      "description": "Official Website of Department of Passport Nepal"
-    },
-    {
-      "name": "Department of Transport Management",
-      "url": "https://www.dotm.gov.np/",
-      "description": "Official Website of Department of Transport Management"
-    },
-    {
       "name": "Nepal Rastra Bank",
       "url": "https://www.nrb.org.np/",
       "description": "Official Website for the Central Bank of Nepal"
@@ -244,6 +219,31 @@
       "name": "Nepal Telecommunication Authority",
       "url": "https://www.nta.gov.np/en/",
       "description": "Official Website of Nepal Telecommunication Authority"
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://opmcm.gov.np/",
+      "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
+    },
+    {
+      "name": "Pradesh No. 1",
+      "url": "https://p1.gov.np/",
+      "description": "Official Website of Portal to Pradesh No. 1"
+    },
+    {
+      "name": "Public Service Commission",
+      "url": "https://psc.gov.np/",
+      "description": "Official Website of Lok Sewa Aayog | PSC"
+    },
+    {
+      "name": "Sudurpaschim Pradesh",
+      "url": "https://sudurpashchim.gov.np/",
+      "description": "Official Website of Portal to Sudurpaschim Pradesh"
+    },
+    {
+      "name": "Supreme Court",
+      "url": "https://supremecourt.gov.np",
+      "description": "Official Website Of Supreme Court of Nepal"
     }
   ]
 }
