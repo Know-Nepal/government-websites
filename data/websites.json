@@ -248,7 +248,12 @@
     {
       "name": "Department of Immigration",
       "url": "https://www.immigration.gov.np/",
-      "description": "Department of Immigration Nepal"
+      "description": "Official Website of Department of Immigration Nepal"
+    }
+    {
+      "name": "Nepal Tourism Board",
+      "url": "hhttps://ntb.gov.np/",
+      "description": "Department of Nepal Tourism Board"
     }
   ]
 }
