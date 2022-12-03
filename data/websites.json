@@ -245,5 +245,15 @@
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
     }
+    {
+      "name": "Department of Immigration",
+      "url": "https://www.immigration.gov.np/",
+      "description": "Official Website of Department of Immigration Nepal"
+    }
+    {
+      "name": "Nepal Tourism Board",
+      "url": "https://ntb.gov.np/",
+      "description": "Department of Nepal Tourism Board"
+    }
   ]
 }
