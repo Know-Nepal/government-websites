@@ -31,9 +31,19 @@
       "description": "Government of Nepal Ministry of Communication and Information Technology"
     },
     {
+      "name": "Department of Mines and Geology",
+      "url": "https://www.dmgnepal.gov.np/",
+      "description": "Government body responsible for mining related activities in Nepal"
+    },
+    {
       "name": "Department of Passport",
       "url": "https://nepalpassport.gov.np/",
       "description": "Official Website of Department of Passport Nepal"
+    },
+    {
+      "name": "Department of Survey",
+      "url": "https://dos.gov.np/",
+      "description": "Official Website of Department of Survey. Mapping agency of Government of Nepal"
     },
     {
       "name": "Department of Transport Management",
@@ -69,6 +79,11 @@
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Land Management and Training Center",
+      "url": "https://lmtc.gov.np/",
+      "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
     },
     {
       "name": "Lumbini Pradesh",
@@ -194,6 +209,11 @@
       "name": "National Human Rights Commission",
       "url": "https://www.nhrcnepal.org/",
       "description": "Official Website of National Human Rights Commision"
+    },
+    {
+      "name": "Nepal Engineering Council",
+      "url": "https://nec.gov.np/",
+      "description": "Nepal Engineering council's official website. It is responsible formulating policies and issuing professional licenses for engineering profession in Nepal."
     },
     {
       "name": "Nepal Government National Portal",
