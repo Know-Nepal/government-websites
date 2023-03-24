@@ -11,6 +11,16 @@
       "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
     },
     {
+      "name": "Nepal Trade Information Portal (NTIP)",
+      "url": "https://nepaltradeportal.gov.np/",
+      "description": "Official Website of Nepal Trade Information Portal"
+    },
+    {
+      "name": "National Information Technology Center",
+      "url": "https://nitc.gov.np/",
+      "description": "Official Website of Nepal Government's NITC"
+    },
+    {
       "name": "Commission for the Investigation of Abuse of Authority",
       "url": "https://ciaa.gov.np/",
       "description": "Official Website for CIAA Nepal"
@@ -196,6 +206,11 @@
       "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
     },
     {
+      "name": "National Data Portal-Nepal",
+      "url": "http://nationaldata.gov.np/",
+      "description": "National Data Portal Nepal"
+    },
+    {
       "name": "National Examinations Board",
       "url": "https://www.neb.gov.np/",
       "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
@@ -264,12 +279,12 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
-    }
+    },
     {
       "name": "Department of Immigration",
       "url": "https://www.immigration.gov.np/",
       "description": "Official Website of Department of Immigration Nepal"
-    }
+    },
     {
       "name": "Nepal Tourism Board",
       "url": "https://ntb.gov.np/",
