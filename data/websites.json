@@ -31,6 +31,16 @@
       "description": "Department of Agriculture Nepal"
     },
     {
+      "name": "Nepal National Single Window",
+      "url": "http://nnsw.gov.np",
+      "description": "Nepal National Single Window"
+    },
+    {
+      "name": "National Health Training Center",
+      "url": "https://nhtc.gov.np/",
+      "description":"The Official Portal of Nepal's National Health Training Center"
+    },
+    {
       "name": "Department of Archaeology",
       "url": "http://www.doa.gov.np/",
       "description": "Official Website for Deparment of Archaeology Nepal"
