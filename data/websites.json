@@ -271,6 +271,16 @@
       "description": "Department of Nepal Tourism Board"
     },
     {
+      "name": "Central Bureau of Statistics",
+      "url": "https://cbs.gov.np/",
+      "description": "Central Beuro of Statistics"
+    },
+    {
+      "name": "Alternative Energy Promotion Centre",
+      "url": "https://aepc.gov.np/",
+      "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
+    },
+    {
       "name": "Nepal Trade Information Portal (NTIP)",
       "url": "https://nepaltradeportal.gov.np/",
       "description": "Official Website of Nepal Trade Information Portal"
@@ -299,6 +309,11 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name": "Bhadrapur Municipality",
+      "url": "https://bhadrapurmun.gov.np/en",
+      "description": "Official Website Of Bhadrapur Municipality"
     }
   ]
 }
