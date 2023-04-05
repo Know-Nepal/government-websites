@@ -314,6 +314,21 @@
       "name": "Bhadrapur Municipality",
       "url": "https://bhadrapurmun.gov.np/en",
       "description": "Official Website Of Bhadrapur Municipality"
+    },
+    {
+        "name": "President Office",
+        "url": "https://president.gov.np/",
+        "description": "Office of the President of Nepal"
+    },
+    {
+        "name": "Policy Research Institute",
+        "url": "https://pri.gov.np/",
+        "description": "Office of the Policy Research Institute"
+    },
+    {
+        "name": "Department of Hydrology and Meteorology",
+        "url": "https://dhm.gov.np/",
+        "description": "Office of the Department of Hydrology and Meteorology"
     }
   ]
 }
