@@ -244,16 +244,31 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
-    }
+    },
     {
       "name": "Department of Immigration",
       "url": "https://www.immigration.gov.np/",
       "description": "Official Website of Department of Immigration Nepal"
-    }
+    },
     {
       "name": "Nepal Tourism Board",
       "url": "hhttps://ntb.gov.np/",
       "description": "Department of Nepal Tourism Board"
+    },
+    {
+      "name": "Lalitpur Metropolitan City",
+      "url": "https://lalitpurmun.gov.np/",
+      "description": "Official Website of Government of Lalitpur Metropolitan City"
+    },
+    {
+      "name": "Bharatpur Metropolitan City",
+      "url": "https://www.bharatpurmun.gov.np/",
+      "description": "Official Website of Government of Bharatpur Metropolitan City"
+    },
+    {
+      "name": "Pokhara Metropolitan City",
+      "url": "https://pokharamun.gov.np/",
+      "description": "Official Website of Government of Pokhara Metropolitan City"
     }
   ]
 }
