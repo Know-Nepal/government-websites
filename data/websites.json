@@ -339,6 +339,11 @@
         "name": "Department of Hydrology and Meteorology",
         "url": "https://dhm.gov.np/",
         "description": "Office of the Department of Hydrology and Meteorology"
+    },
+    {
+        "name": "District Administration Office of Bajhang",
+        "url": "https://daobajhang.moha.gov.np/",
+        "description": "Office of the District Administration Office of Bajhang"
     }
   ]
 }
