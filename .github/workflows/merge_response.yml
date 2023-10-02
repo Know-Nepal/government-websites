@@ -23,7 +23,8 @@ jobs:
       - name: Respond to merged PR
         run: |
           if [ "${{ github.event_name }}" == "pull_request" ] && [ "${{ github.event.action }}" == "closed" ] && [ "${{ github.event.pull_request.merged }}" == "true" ]; then
-            MESSAGE="Thank you for your contribution @{{ github.event.pull_request.user.login }} :heart: \n[![Join our Discord server!](https://invidget.switchblade.xyz/7jwZaa8WDr)](http://discord.gg/7jwZaa8WDr)"
+            AUTHOR_LOGIN=$(jq -r '.pull_request.user.login' $GITHUB_EVENT_PATH)
+            MESSAGE="Thank you for your contribution @$AUTHOR_LOGIN :heart: \n[![Join our Discord server!](https://invidget.switchblade.xyz/7jwZaa8WDr)](http://discord.gg/7jwZaa8WDr)"
             curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
               -H "Accept: application/vnd.github.v3+json" \
               -d "{\"body\":\"$MESSAGE\"}" \
