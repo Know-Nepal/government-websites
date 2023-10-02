@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "name": "Alternative Energy Promotion Centre",
+      "url": "https://aepc.gov.np/",
+      "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
+    },
+    {
       "name": "Armed Police Force(APF)",
       "url": "http://www.apf.gov.np/",
       "description": "Armed Police Force(APF) is the largest police force in Nepal."
@@ -9,6 +14,16 @@
       "name": "Bagmati Pradesh | Office of Chief Minister and Council of Minister",
       "url": "http://ocmcm.bagamati.gov.np/",
       "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
+    },
+    {
+      "name": "Bhadrapur Municipality",
+      "url": "https://bhadrapurmun.gov.np/en",
+      "description": "Official Website Of Bhadrapur Municipality"
+    },
+    {
+      "name": "Bharatpur Municipality",
+      "url": "https://bharatpurmun.gov.np/",
+      "description": "Official Website of Bharatpur Municipality"
     },
     {
       "name": "Bidur Municipality",
@@ -21,6 +36,16 @@
       "description": "Official Website Of Birtamod Municipality"
     },
     {
+      "name": "Central Bureau of Statistics",
+      "url": "https://cbs.gov.np/",
+      "description": "Central Beuro of Statistics"
+    },
+    {
+      "name": "Chitwan National Park",
+      "url": "https://chitwannationalpark.gov.np/",
+      "description": "Official Website of Chitwan National Park"
+    },
+    {
       "name": "Commission for the Investigation of Abuse of Authority",
       "url": "https://ciaa.gov.np/",
       "description": "Official Website for CIAA Nepal"
@@ -29,11 +54,6 @@
       "name": "Damak Municipality",
       "url": "https://damakmun.gov.np/",
       "description": "Official Website Of Damak Municipality"
-    },
-    {
-      "name": "Department of Information Technology",
-      "url": "https://doit.gov.np/en",
-      "description": "Government of Nepal Ministry of Communication and Information Technology"
     },
     {
       "name": "Department of Agriculture",
@@ -46,14 +66,34 @@
       "description": "Official Website for Deparment of Archaeology Nepal"
     },
     {
+      "name": "Department of Customs",
+      "url": "https://customs.gov.np/",
+      "description": "Office of the Department of Customs under Ministry of Finance"
+    },
+    {
+      "name": "Department of Hydrology and Meteorology",
+      "url": "https://dhm.gov.np/",
+      "description": "Office of the Department of Hydrology and Meteorology"
+    },
+    {
       "name": "Department of Immigration",
       "url": "https://www.immigration.gov.np/",
       "description": "Official Website of Department of Immigration Nepal"
     },
     {
+      "name": "Department of Information Technology",
+      "url": "https://doit.gov.np/en",
+      "description": "Government of Nepal Ministry of Communication and Information Technology"
+    },
+    {
       "name": "Department of Mines and Geology",
       "url": "https://www.dmgnepal.gov.np/",
       "description": "Government body responsible for mining related activities in Nepal"
+    },
+    {
+      "name": "Department of National Parks and WildLife Conservation",
+      "url": "https://dnpwc.gov.np/",
+      "description": "Official Website of Department of National Parks and WildLife Conservation"
     },
     {
       "name": "Department of Passport",
@@ -69,6 +109,11 @@
       "name": "Department of Transport Management",
       "url": "https://www.dotm.gov.np/",
       "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "District Administration Office of Bajhang",
+      "url": "https://daobajhang.moha.gov.np/",
+      "description": "Office of the District Administration Office of Bajhang"
     },
     {
       "name": "Election Commission",
@@ -99,6 +144,11 @@
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Koshi Pradesh",
+      "url": "https://koshi.gov.np/",
+      "description": "Official Website of Portal to Koshi Pradesh"
     },
     {
       "name": "Land Management and Training Center",
@@ -286,29 +336,24 @@
       "description": "Department of Nepal Tourism Board"
     },
     {
-      "name": "Central Bureau of Statistics",
-      "url": "https://cbs.gov.np/",
-      "description": "Central Beuro of Statistics"
-    },
-    {
-      "name": "Alternative Energy Promotion Centre",
-      "url": "https://aepc.gov.np/",
-      "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
-    },
-    {
       "name": "Nepal Trade Information Portal (NTIP)",
       "url": "https://nepaltradeportal.gov.np/",
       "description": "Official Website of Nepal Trade Information Portal"
     },
     {
+      "name": "Office of the Policy Research Institute",
+      "url": "https://pri.gov.np/",
+      "description": "Official Website of the Office of the Policy Research Institute"
+    },
+    {
+      "name": "Office of the President of Nepal",
+      "url": "https://president.gov.np/",
+      "description": "Official Website of the Office of the President of Nepal"
+    },
+    {
       "name": "Office of the Prime Minister and Council of Ministers",
       "url": "https://opmcm.gov.np/",
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
-    },
-    {
-      "name": "Pradesh No. 1",
-      "url": "https://p1.gov.np/",
-      "description": "Official Website of Portal to Pradesh No. 1"
     },
     {
       "name": "Public Service Commission",
@@ -324,52 +369,6 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
-    },
-    {
-      "name": "Bhadrapur Municipality",
-      "url": "https://bhadrapurmun.gov.np/en",
-      "description": "Official Website Of Bhadrapur Municipality"
-    },
-    {
-      "name": "Office of the President of Nepal",
-      "url": "https://president.gov.np/",
-      "description": "Official Website of the Office of the President of Nepal"
-    },
-    {
-      "name": "Office of the Policy Research Institute",
-      "url": "https://pri.gov.np/",
-      "description": "Official Website of the Office of the Policy Research Institute"
-    },
-    {
-      "name": "Department of Hydrology and Meteorology",
-      "url": "https://dhm.gov.np/",
-      "description": "Office of the Department of Hydrology and Meteorology"
-    },
-    {
-      "name": "District Administration Office of Bajhang",
-      "url": "https://daobajhang.moha.gov.np/",
-      "description": "Office of the District Administration Office of Bajhang"
-    },
-    {
-      "name": "Department of Customs",
-      "url": "https://customs.gov.np/",
-      "description": "Office of the Department of Customs under Ministry of Finance"
-    },
-    {
-      "name": "Bharatpur Municipality",
-      "url": "https://bharatpurmun.gov.np/",
-      "description": "Official Website of Bharatpur Municipality"
-    },
-    {
-      "name": "Chitwan National Park",
-      "url": "https://chitwannationalpark.gov.np/",
-      "description": "Official Website of Chitwan National Park"
-    },
-    {
-      "name": "Department of National Parks and WildLife Conservation",
-      "url": "https://dnpwc.gov.np/",
-      "description": "Official Website of Department of National Parks and WildLife Conservation"
     }
-    
   ]
 }
