@@ -31,6 +31,11 @@
       "description": "Official Website of Bharatpur Municipality"
     },
     {
+      "name": "Bheerkot Municipality",
+      "url": "https://bheerkotmun.gov.np/",
+      "description": "Official Website of Bheerkot Municipality"
+    },
+    {
       "name": "Bidur Municipality",
       "url": "https://bidurmun.gov.np/en",
       "description": "Official Website of Bidur Municipality"
@@ -40,17 +45,19 @@
       "url": "https://birtamodmun.gov.np/en",
       "description": "Official Website of Birtamod Municipality"
     },
+    
     {
       "name": "Central Bureau of Statistics",
       "url": "https://cbs.gov.np/",
       "description": "Central Beuro of Statistics"
     },
-    {
+    
       {
         "name": "Chapakot Municipality",
         "url": "https://chapakotmun.gov.np/",
         "description": "Official Website of Chapakot Municipality"
       },
+      {
       "name": "Chitwan National Park",
       "url": "https://chitwannationalpark.gov.np/",
       "description": "Official Website of Chitwan National Park"
@@ -375,6 +382,13 @@
       "url": "https://psc.gov.np/",
       "description": "Official Website of Lok Sewa Aayog | PSC"
     },
+    {
+      "name": "Putalibazar Municipality",
+      "url": "https://putalibazarmun.gov.np/",
+      "description": "Official Website of Putalibazar Municipality"
+    },
+    
+
     {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
