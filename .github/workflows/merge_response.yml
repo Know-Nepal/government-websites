@@ -1,0 +1,32 @@
+name: Merge Response
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Respond to merged PR
+        run: |
+          if [ "${{ github.event_name }}" == "pull_request" ] && [ "${{ github.event.action }}" == "closed" ] && [ "${{ github.event.pull_request.merged }}" == "true" ]; then
+            AUTHOR_LOGIN=$(jq -r '.pull_request.user.login' $GITHUB_EVENT_PATH)
+            MESSAGE="Thank you for your contribution @$AUTHOR_LOGIN :heart: \n[![Join our Discord server!](https://invidget.switchblade.xyz/7jwZaa8WDr)](http://discord.gg/7jwZaa8WDr)"
+            curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              -d "{\"body\":\"$MESSAGE\"}" \
+              "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments"
+          fi
