@@ -316,6 +316,11 @@
       "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
+      "name": "Rainadevi Chhahara Rural Municipality",
+      "url": "https://rainadevichhaharamun.gov.np/",
+      "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+    },
+    {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
@@ -331,34 +336,29 @@
       "description": "Official Website Of Bhadrapur Municipality"
     },
     {
-        "name": "Office of the President of Nepal",
-        "url": "https://president.gov.np/",
-        "description": "Official Website of the Office of the President of Nepal"
+      "name": "Office of the President of Nepal",
+      "url": "https://president.gov.np/",
+      "description": "Official Website of the Office of the President of Nepal"
     },
     {
-        "name": "Office of the Policy Research Institute",
-        "url": "https://pri.gov.np/",
-        "description": "Official Website of the Office of the Policy Research Institute"
+      "name": "Office of the Policy Research Institute",
+      "url": "https://pri.gov.np/",
+      "description": "Official Website of the Office of the Policy Research Institute"
     },
     {
-        "name": "Department of Hydrology and Meteorology",
-        "url": "https://dhm.gov.np/",
-        "description": "Office of the Department of Hydrology and Meteorology"
+      "name": "Department of Hydrology and Meteorology",
+      "url": "https://dhm.gov.np/",
+      "description": "Office of the Department of Hydrology and Meteorology"
     },
     {
-        "name": "District Administration Office of Bajhang",
-        "url": "https://daobajhang.moha.gov.np/",
-        "description": "Office of the District Administration Office of Bajhang"
+      "name": "District Administration Office of Bajhang",
+      "url": "https://daobajhang.moha.gov.np/",
+      "description": "Office of the District Administration Office of Bajhang"
     },
     {
-        "name": "Department of Customs",
-        "url": "https://customs.gov.np/",
-        "description": "Office of the Department of Customs under Ministry of Finance"
-    },
-    {
-      "name": "Rainadevi Chhahara Rural Municipality",
-      "url": "https://rainadevichhaharamun.gov.np/",
-      "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+      "name": "Department of Customs",
+      "url": "https://customs.gov.np/",
+      "description": "Office of the Department of Customs under Ministry of Finance"
     }
   ]
 }
