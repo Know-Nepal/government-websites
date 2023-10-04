@@ -45,13 +45,11 @@
       "url": "https://birtamodmun.gov.np/en",
       "description": "Official Website of Birtamod Municipality"
     },
-    
     {
       "name": "Central Bureau of Statistics",
       "url": "https://cbs.gov.np/",
       "description": "Central Beuro of Statistics"
     },
-    
       {
         "name": "Chapakot Municipality",
         "url": "https://chapakotmun.gov.np/",
@@ -402,8 +400,6 @@
       "url": "https://rambhamun.gov.np/",
       "description": "Official Website of Rambha Rural Municipality"
     },
-    
-
     {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
@@ -424,6 +420,5 @@
       "url": "https://walingmun.gov.np/",
       "description": "Official Website Of Waling Municipality"
     }
-
   ]
 }
