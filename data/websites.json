@@ -376,6 +376,21 @@
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
     },
     {
+      "name": "Resunga Municipality",
+      "url": "https://www.resungamun.gov.np/",
+      "description": "Official Website Of Resunga Municipality"
+    },
+    {
+      "name": "Ribdikot  Rural Municipality",
+      "url": "https://ribdikotmun.gov.np/",
+      "description": "Official Website Of Ribdikot  Rural Municipality"
+    },
+    {
+      "name": "Ruru Rural Municipality",
+      "url": "https://rurumun.gov.np/",
+      "description": "Official Website Of Ruru Rural Municipality"
+    },
+    {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
@@ -384,6 +399,11 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name": "Tansen Municipality",
+      "url": "https://tansenmun.gov.np/",
+      "description": "Official Website Of Tansen Municipality"
     },
     {
       "name": "Tokha Municipality",
