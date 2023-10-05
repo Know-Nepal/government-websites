@@ -36,6 +36,11 @@
       "description": "Official Website of Bharatpur Municipality"
     },
     {
+      "name": "Bheerkot Municipality",
+      "url": "https://bheerkotmun.gov.np/",
+      "description": "Official Website of Bheerkot Municipality"
+    },
+    {
       "name": "Bedkot Municipality",
       "url": "https://bedkotmun.gov.np/",
       "description": "Official Website of Bedkot Municipality"
@@ -69,6 +74,11 @@
       "name": "Central Bureau of Statistics",
       "url": "https://cbs.gov.np/",
       "description": "Central Beuro of Statistics"
+    },
+    {
+        "name": "Chapakot Municipality",
+        "url": "https://chapakotmun.gov.np/",
+        "description": "Official Website of Chapakot Municipality"
     },
     {
       "name": "Chitwan National Park",
@@ -166,6 +176,16 @@
       "description": "Office of the District Administration Office of Bajhang"
     },
     {
+      "name": "District Police Office Syangja",
+      "url": "https://nwchelpline.gov.np/service-mapping/detail/289-District-Police-Office",
+      "description": "Official website of District Police Office Syangja"
+    },
+    {
+      "name": "Division Forest Office Syangja",
+      "url": "https://dfosyangja.gov.np/",
+      "description": "Official website of Division Forest Office Syangja"
+    },
+    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
@@ -194,6 +214,11 @@
       "name": "Government of Nepal Ministry Of Youth and Sports",
       "url": "https://moys.gov.np/",
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
+    },
+    {
+      "name": "Harinas Rural Municipality",
+      "url": "https://harinasmun.gov.np/",
+      "description": "Official Website of Harinas Rural Municipality "
     },
     {
       "name": "Inland Revenue Department",
@@ -441,6 +466,11 @@
       "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
+      "name": "Putalibazar Municipality",
+      "url": "https://putalibazarmun.gov.np/",
+      "description": "Official Website of Putalibazar Municipality"
+    },
+    {
       "name": "Parshuram Municipality",
       "url": "https://parshurammun.gov.np/",
       "description": "Official Website of Parshuram Municipality"
@@ -461,6 +491,11 @@
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
     },
     {
+      "name": "Rambha Rural Municipality",
+      "url": "https://rambhamun.gov.np/",
+      "description": "Official Website of Rambha Rural Municipality"
+    },
+    {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
@@ -469,6 +504,11 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name": "Transport Management Office Kaski",
+      "url": "https://dlo.gandaki.gov.np/",
+      "description": "Official Website Of Transport Management Office Kaski"
     },
     {
       "name": "Shailyashikhar Municipality",
@@ -504,7 +544,16 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
+    },
+    {
+      "name": "Tokha Municipality",
+      "url": "https://tokhamun.gov.np/",
+      "description": "Official Website Of Tokha Municipality"
+    },
+    {
+      "name": "Waling Municipality",
+      "url": "https://walingmun.gov.np/",
+      "description": "Official Website Of Waling Municipality"
     }
-
   ]
 }
