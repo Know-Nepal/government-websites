@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "name": "Amargadhi Municipality",
+      "url": "https://amargadhimun.gov.np/",
+      "description": "Official Website of Amargadhi Municipality"
+    },
+    {
       "name": "Alternative Energy Promotion Centre",
       "url": "https://aepc.gov.np/",
       "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
@@ -31,6 +36,26 @@
       "description": "Official Website of Bharatpur Municipality"
     },
     {
+      "name": "Bedkot Municipality",
+      "url": "https://bedkotmun.gov.np/",
+      "description": "Official Website of Bedkot Municipality"
+    },
+    {
+      "name": "Belauri Municipality",
+      "url": "https://belaurimun.gov.np/",
+      "description": "Official Website of Belauri Municipality"
+    },
+    {
+      "name": "Bhajani Municipality",
+      "url": "https://bhajanimun.gov.np/",
+      "description": "Official Website of Bhajani Municipality"
+    },
+    {
+      "name": "Budhanilkantha Municipality",
+      "url": "https://budhanilkanthamun.gov.np/",
+      "description": "Official Website of Budhanilkantha Municipality"
+    },
+    {
       "name": "Bidur Municipality",
       "url": "https://bidurmun.gov.np/en",
       "description": "Official Website of Bidur Municipality"
@@ -51,6 +76,11 @@
       "description": "Official Website of Chitwan National Park"
     },
     {
+      "name": "Chandragiri Municipality",
+      "url": "https://www.chandragirimun.gov.np/",
+      "description": "Official website of Chandragiri Municipality"
+    },
+    {
       "name": "Commission for the Investigation of Abuse of Authority",
       "url": "https://ciaa.gov.np/",
       "description": "Official Website for CIAA Nepal"
@@ -59,6 +89,21 @@
       "name": "Damak Municipality",
       "url": "https://damakmun.gov.np/",
       "description": "Official Website of Damak Municipality"
+    },
+    {
+      "name": "Dhangadhi Sub-Metropolitan City",
+      "url": "https://dhangadhimun.gov.np/",
+      "description": "Official Website of Dhangadhi Sub-Metropolitan City"
+    },
+    {
+      "name": "Dasharathchand Municipality",
+      "url": "https://dasharathchandmun.gov.np/",
+      "description": "Official Website of Dasharathchand Municipality"
+    },
+    {
+      "name": "Dipayalsilgadhi Municipality",
+      "url": "https://dipayalsilgadhimun.gov.np/",
+      "description": "Official Website of Dipayalsilgadhi Municipality"
     },
     {
       "name": "Department of Agriculture",
@@ -136,6 +181,16 @@
       "description": "Official Website of Galyang Municipality"
     },
     {
+      "name": "Godawari Municipality",
+      "url": "https://godawarimunkailali.gov.np/",
+      "description": "Official Website of Godawari Municipality"
+    },
+    {
+      "name": "Ghodaghodi Municipality",
+      "url": "https://ghodaghodimun.gov.np/",
+      "description": "Official Website of Ghodaghodi Municipality"
+    },
+    {
       "name": "Government of Nepal Ministry Of Youth and Sports",
       "url": "https://moys.gov.np/",
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
@@ -161,6 +216,16 @@
       "description": "Official Website of Portal to Koshi Pradesh"
     },
     {
+      "name": "Krishnapur Municipality",
+      "url": "https://krishnapurmun.gov.np/",
+      "description": "Official Website of Krishnapur Municipality"
+    },
+    {
+      "name": "Lamkichuha Municipality",
+      "url": "https://lamkichuhamun.gov.np/",
+      "description": "Official Website of Lamkichuha Municipality"
+    },
+    {
       "name": "Land Management and Training Center",
       "url": "https://lmtc.gov.np/",
       "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
@@ -174,6 +239,11 @@
       "name": "Madhesh Pradesh",
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
+    },
+    {
+      "name": "Melauli Municipality",
+      "url": "https://melaulimun.gov.np/",
+      "description": "Official Website of Melauli Municipality"
     },
     {
       "name": "Ministry of Agriculture and Livestock Development (MOALD)",
@@ -371,6 +441,21 @@
       "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
+      "name": "Parshuram Municipality",
+      "url": "https://parshurammun.gov.np/",
+      "description": "Official Website of Parshuram Municipality"
+    },
+    {
+      "name": "Patan Municipality",
+      "url": "https://patanmun.gov.np/",
+      "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Purchaudi Municipality",
+      "url": "https://purchaudimun.gov.np/",
+      "description": "Official Website of Purchaudi Municipality"
+    },
+    {
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
@@ -384,6 +469,26 @@
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name": "Shailyashikhar Municipality",
+      "url": "https://shailyashikharmun.gov.np/",
+      "description": "Official Website Of Shailyashikhar Municipality"
+    },
+    {
+      "name": "Shuklaphanta Municipality",
+      "url": "https://shuklaphantamun.gov.np/",
+      "description": "Official Website Of Shuklaphanta Municipality"
+    },
+    {
+      "name": "Tarakeshwar Municipality",
+      "url": "https://tarakeshwormun.gov.np/",
+      "description": "Official website of Tarakeshwar Municipality"
+    },
+    {
+      "name": "Tikapur Municipality",
+      "url": "https://tikapurmun.gov.np/",
+      "description": "Official website of Tikapur Municipality"
     },
     {
       "name": "Tokha Municipality",
