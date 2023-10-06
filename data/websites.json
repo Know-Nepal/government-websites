@@ -171,9 +171,19 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
-      "name": "District Administration Office of Bajhang",
+      "name": "District Administration Office, Bajhang",
       "url": "https://daobajhang.moha.gov.np/",
-      "description": "Office of the District Administration Office of Bajhang"
+      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Bajhang"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi (Bardaghat Susta East)",
+      "url": "https://daonawalparasieast.moha.gov.np/",
+      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Nawalparasi (Bardhghat Susta East)"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi (Bardaghat Susta West)",
+      "url": "https://daonawalparasiwest.moha.gov.np/en",
+      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Nawalparasi (Bardhghat Susta West)"
     },
     {
       "name": "Election Commission",
