@@ -544,6 +544,11 @@
       "name": "Nepal Police",
       "url": "https://www.nepalpolice.gov.np/",
       "description": "Official Website Of Nepal Police"
+    },
+    {
+      "name": "Nepalgunj sub metropolitan",
+      "url": "https://nepalgunjmun.gov.np/",
+      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
     }
   ]
 }
