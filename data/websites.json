@@ -551,9 +551,14 @@
       "description": "Official Website Of Nepalgunj Sub-metropolitian city"
     },
     {
-      "name": "District Administration Office of Nepalgunj",
+      "name": "District Administration Office of Banke",
       "url": "https://daobanke.moha.gov.np/en",
-      "description": "Official Website Of District  Administration Office Of Nepalgunj"
+      "description": "Official Website Of District  Administration Office Of Banke"
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://www.opmcm.gov.np/en/",
+      "description": "Official Website Of Office of the Prime Minister and Council of Ministers"
     }
   ]
 }
