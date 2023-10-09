@@ -539,6 +539,31 @@
       "name": "District Administration Office of Rupandehi",
       "url": "https://daorupandehi.moha.gov.np/en",
       "description": "Official Website Of District  Administration Office Of Rupandehi"
+    },
+    {
+      "name": "Nepal Police",
+      "url": "https://www.nepalpolice.gov.np/",
+      "description": "Official Website Of Nepal Police"
+    },
+    {
+      "name": "Nepalgunj sub metropolitan",
+      "url": "https://nepalgunjmun.gov.np/",
+      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
+    },
+    {
+      "name": "District Administration Office of Banke",
+      "url": "https://daobanke.moha.gov.np/en",
+      "description": "Official Website Of District  Administration Office Of Banke"
+    },
+    {
+      "name": "Office of the Prime Minister and Council of Ministers",
+      "url": "https://www.opmcm.gov.np/en/",
+      "description": "Official Website Of Office of the Prime Minister and Council of Ministers"
+    },
+    {
+      "name": "Ministry of Finance",
+      "url": "https://new.mof.gov.np/",
+      "description": "Official Website Of Ministry of Finance."
     }
   ]
 }
