@@ -171,6 +171,391 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
+      "name": "District Administration Office, Achham",
+      "url": "https://daoachham.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Achham"
+    },
+    {
+      "name": "District Administration Office, Arghakhanchi",
+      "url": "https://daoarghakhanchi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Arghakhanchi"
+    },
+    {
+      "name": "District Administration Office, Baglung",
+      "url": "https://daobaglung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Baglung"
+    },
+    {
+      "name": "District Administration Office, Baitadi",
+      "url": "https://daobaitadi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Baitadi"
+    },
+    {
+      "name": "District Administration Office, Bajhang",
+      "url": "https://daobajhang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bajhang"
+    },
+    {
+      "name": "District Administration Office, Bajura",
+      "url": "https://daobajura.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bajura"
+    },
+    {
+      "name": "District Administration Office, Banke",
+      "url": "https://daobanke.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Banke"
+    },
+    {
+      "name": "District Administration Office, Bara",
+      "url": "https://daobara.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bara"
+    },
+    {
+      "name": "District Administration Office, Bardiya",
+      "url": "https://daobardiya.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bardiya"
+    },
+    {
+      "name": "District Administration Office, Bhaktapur",
+      "url": "https://daobhaktapur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bhaktapur"
+    },
+    {
+      "name": "District Administration Office, Bhojpur",
+      "url": "https://daobhojpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bhojpur"
+    },
+    {
+      "name": "District Administration Office, Chitwan",
+      "url": "https://daochitwan.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Chitwan"
+    },
+    {
+      "name": "District Administration Office, Dadeldhura",
+      "url": "https://daodadeldhura.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dadeldhura"
+    },
+    {
+      "name": "District Administration Office, Dailekh",
+      "url": "https://daodailekh.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dailekh"
+    },
+    {
+      "name": "District Administration Office, Dang",
+      "url": "https://daodang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dang"
+    },
+    {
+      "name": "District Administration Office, Darchula",
+      "url": "https://daodarchula.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Darchula"
+    },
+    {
+      "name": "District Administration Office, Dhading",
+      "url": "https://daodhading.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dhading"
+    },
+    {
+      "name": "District Administration Office, Dhankuta",
+      "url": "https://daodhankuta.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Dhankuta"
+    },
+    {
+      "name": "District Administration Office, Dhanusha",
+      "url": "https://daodhanusha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dhanusha"
+    },    
+    {
+      "name": "District Administration Office, Dolakha",
+      "url": "https://daodolakha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dolakha"
+    },
+    {
+      "name": "District Administration Office, Dolpa",
+      "url": "https://daodolpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dolpa"
+    },
+    {
+      "name": "District Administration Office, Doti",
+      "url": "https://daodoti.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Doti"
+    },
+    {
+      "name": "District Administration Office, Gorkha",
+      "url": "https://daogorkha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Gorkha"
+    },
+    {
+      "name": "District Administration Office, Gulmi",
+      "url": "https://daogulmi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Gulmi"
+    },
+    {
+      "name": "District Administration Office, Humla",
+      "url": "https://daohumla.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Humla"
+    },
+    {
+      "name": "District Administration Office, Ilam",
+      "url": "https://daoilam.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Ilam"
+    },
+    {
+      "name": "District Administration Office, Jajarkot",
+      "url": "https://daojajarkot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jajarkot"
+    },
+    {
+      "name": "District Administration Office, Jhapa",
+      "url": "https://daojhapa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jhapa"
+    },
+    {
+      "name": "District Administration Office, Jumla",
+      "url": "https://daojumla.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jumla"
+    },
+    {
+      "name": "District Administration Office, Kailali",
+      "url": "https://daokailali.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kailali"
+    },
+    {
+      "name":"District Administration Office, Kalikot",
+      "url":"https://daokalikot.moha.gov.np",
+      "description":"Official Website Of District Administration Office Of Kalikot"
+    },
+    {
+      "name": "District Administration Office, Kanchanpur",
+      "url": "https://daokanchanpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kanchanpur"
+    },
+    {
+      "name": "District Administration Office, Kapilvastu",
+      "url": "https://daokapilvastu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kapilvastu"
+    },
+    {
+      "name": "District Administration Office, Kaski",
+      "url": "https://daokaski.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kaski"
+    },
+    {
+      "name": "District Administration Office, Kathmandu",
+      "url": "https://daokathmandu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kathmandu"
+    },
+    {
+      "name": "District Administration Office, Kavrepalanchok",
+      "url": "https://daokavrepalanchok.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Kavrepalanchok"
+    },
+    {
+      "name": "District Administration Office, Khotang",
+      "url": "https://daokhotang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Khotang"
+    },
+    {
+      "name": "District Administration Office, Lalitpur",
+      "url": "https://daolalitpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Lalitpur"
+    },
+    {
+      "name": "District Administration Office, Lamjung",
+      "url": "https://daolamjung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Lamjung"
+    },
+    {
+      "name": "District Administration Office, Mahottari",
+      "url": "https://daomahotari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mahottari"
+    },
+    {
+      "name": "District Administration Office, Makawanpur",
+      "url": "https://daomakawanpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Makawanpur"
+    },
+    {
+      "name": "District Administration Office, Manang",
+      "url": "https://daomanang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Manang"
+    },
+    {
+      "name": "District Administration Office, Morang",
+      "url": "https://daomorang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Morang"
+    },
+    {
+      "name": "District Administration Office, Mugu",
+      "url": "https://daomugu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mugu"
+    },
+    {
+      "name": "District Administration Office, Mustang",
+      "url": "https://daomustang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mustang"
+    },
+    {
+      "name": "District Administration Office, Myagdi",
+      "url": "https://daomyagdi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Myagdi"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi East",
+      "url": "https://daonawalparasieast.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nawalparasi East"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi West",
+      "url": "https://daonawalparasiwest.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nawalparasi West"
+    },
+    {
+      "name": "District Administration Office, Nuwakot",
+      "url": "https://daonuwakot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nuwakot"
+    },
+    {
+      "name": "District Administration Office, Okhaldhunga",
+      "url": "https://daookhaldhunga.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Okhaldhunga"
+    },
+    {
+      "name": "District Administration Office, Palpa",
+      "url": "https://daopalpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Palpa"
+    },
+    {
+      "name": "District Administration Office, Panchthar",
+      "url": "https://daopanchthar.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Panchthar"
+    },
+    {
+      "name": "District Administration Office, Parbat",
+      "url": "https://daoparbat.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Parbat"
+    },
+    {
+      "name": "District Administration Office, Parsa",
+      "url": "https://daoparsa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Parsa"
+    },
+    {
+      "name": "District Administration Office, Pyuthan",
+      "url": "https://daopyuthan.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Pyuthan"
+    },
+    {
+      "name": "District Administration Office, Ramechhap",
+      "url": "https://daoramechhap.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Ramechhap"
+    },
+    {
+      "name": "District Administration Office, Rasuwa",
+      "url": "https://daorasuwa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rasuwa"
+    },
+    {
+      "name": "District Administration Office, Rukum East",
+      "url": "https://daorukumeast.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum East"
+    },
+    {
+      "name": "District Administration Office, Rukum West",
+      "url": "https://daorukumwest.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum West"
+    },
+    {
+      "name": "District Administration Office, Rautahat",
+      "url": "https://daorautahat.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rautahat"
+    },
+    {
+      "name": "District Administration Office, Rolpa",
+      "url": "https://daorolpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rolpa"
+    },
+    {
+      "name": "District Administration Office, Rupandehi",
+      "url": "https://daorupandehi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rupandehi"
+    },
+    {
+      "name": "District Administration Office, Salyan",
+      "url": "https://daosalyan.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Salyan"
+    },
+    {
+      "name": "District Administration Office, Sankhuwasabha",
+      "url": "https://daosankhuwasabha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sankhuwasabha"
+    },
+    {
+      "name": "District Administration Office, Saptari",
+      "url": "https://daosaptari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Saptari"
+    },
+    {
+      "name": "District Administration Office, Sarlahi",
+      "url": "https://daosarlahi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sarlahi"
+    },
+    {
+      "name": "District Administration Office, Sindhuli",
+      "url": "https://daosindhuli.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sindhuli"
+    },
+    {
+      "name": "District Administration Office, Sindhupalchok",
+      "url": "https://daosindhupalchok.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sindhupalchok"
+    },
+    {
+      "name": "District Administration Office, Siraha",
+      "url": "https://daosiraha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Siraha"
+    },
+    {
+      "name": "District Administration Office, Solukhumbu",
+      "url": "https://daosolukhumbu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Solukhumbu"
+    },
+    {
+      "name": "District Administration Office, Sunsari",
+      "url": "https://daosunsari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sunsari"
+    },
+    {
+      "name": "District Administration Office, Surkhet",
+      "url": "https://daosurkhet.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Surkhet"
+    },
+    {
+      "name": "District Administration Office, Syangja",
+      "url": "https://daosyangja.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Syangja"
+    },
+    {
+      "name": "District Administration Office, Tanahu",
+      "url": "https://daotanahu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Tanahu"
+    },
+    {
+      "name": "District Administration Office, Taplejung",
+      "url": "https://daotaplejung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Taplejung"
+    },
+    {
+      "name": "District Administration Office, Terhathum",
+      "url": "https://daoterathum.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Terhathum"
+    },
+    {
+      "name": "District Administration Office, Udayapur",
+      "url": "https://daoudayapur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Udayapur"
+    },
+    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
