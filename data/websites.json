@@ -86,6 +86,11 @@
       "description": "Official website of Chandragiri Municipality"
     },
     {
+      "name": "Chhatrakot Rural Municipality",
+      "url": "https://chhatrakotmun.gov.np/",
+      "description": "Official Website Of Chhatrakot Rural Municipality"
+    },
+    {
       "name": "Commission for the Investigation of Abuse of Authority",
       "url": "https://ciaa.gov.np/",
       "description": "Official Website for CIAA Nepal"
@@ -96,14 +101,9 @@
       "description": "Official Website of Damak Municipality"
     },
     {
-      "name": "Department of Customs",
-      "url": "https://www.customs.gov.np/",
-      "description": "Official Website of Department of Customs"
-    },
-    {
-      "name": "Department of Roads Palpa",
-      "url": "https://www.dor.gov.np/palpa",
-      "description": "Official Website of Department of Roads Palpa"
+      "name": "Department of Roads",
+      "url": "https://www.dor.gov.np/",
+      "description": "Official Website of Department of Roads"
     },
     {
       "name": "Dhangadhi Sub-Metropolitan City",
@@ -191,6 +191,11 @@
       "description": "Election Commission Nepal's Official Website"
     },
     {
+      "name": "Gaindakot Municipality",
+      "url": "https://www.gaindakotmun.gov.np/",
+      "description": "Official Website Gaindakot Municipality"
+    },
+    {
       "name": "Gandaki Pradesh",
       "url": "https://gandaki.gov.np/",
       "description": "Official Website of Portal to Gandaki Pradesh"
@@ -234,6 +239,11 @@
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
+    },
+    {
+      "name": "Kawasoti Municipality",
+      "url": "https://www.kawasotimun.gov.np/",
+      "description": "Official Website of Kawasoti Municipality"
     },
     {
       "name": "Koshi Pradesh",
@@ -491,6 +501,16 @@
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
     },
     {
+      "name": "Resunga Municipality",
+      "url": "https://www.resungamun.gov.np/",
+      "description": "Official Website Of Resunga Municipality"
+    },
+    {
+      "name": "Ruru Rural Municipality",
+      "url": "https://rurumun.gov.np/",
+      "description": "Official Website Of Ruru Rural Municipality"
+    },
+    {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
@@ -534,7 +554,11 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
+    },
+    {
+      "name": "District Administration Office of Rupandehi",
+      "url": "https://daorupandehi.moha.gov.np/en",
+      "description": "Official Website Of District  Administration Office Of Rupandehi"
     }
-
   ]
 }
