@@ -161,6 +161,11 @@
       "description": "Official Website of Department of Passport Nepal"
     },
     {
+      "name": "Department of Postal Service",
+      "url": "https://nepalpost.gov.np/",
+      "description": "Official Website of Department of Postal Service"
+    },
+    {
       "name": "Department of Survey",
       "url": "https://dos.gov.np/",
       "description": "Official Website of Department of Survey. Mapping agency of Government of Nepal"
@@ -194,6 +199,11 @@
       "name": "Galyang Municipality",
       "url": "https://galyangmun.gov.np/",
       "description": "Official Website of Galyang Municipality"
+    },
+    {
+      "name": "General Post Office",
+      "url": "https://gpo.gov.np/",
+      "description": "Official Website of General Post Office"
     },
     {
       "name": "Godawari Municipality",
