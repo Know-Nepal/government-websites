@@ -31,6 +31,11 @@
       "description": "Official Website of Bhadrapur Municipality"
     },
     {
+      "name": "Bhairahawa Multiple Campus",
+      "url": "https://www.bhairahawacampus.edu.np/",
+      "description": "Official Website of Bhairahawa Multiple Campus"
+    },
+    {
       "name": "Bharatpur Municipality",
       "url": "https://bharatpurmun.gov.np/",
       "description": "Official Website of Bharatpur Municipality"
@@ -151,6 +156,11 @@
       "description": "Government body responsible for mining related activities in Nepal"
     },
     {
+      "name": "Department of National Id and Civil Registration",
+      "url": "https://donidcr.gov.np/",
+      "description": "Official Website of Department of National Id and Civil Registration"
+    },
+    {
       "name": "Department of National Parks and WildLife Conservation",
       "url": "https://dnpwc.gov.np/",
       "description": "Official Website of Department of National Parks and WildLife Conservation"
@@ -209,6 +219,11 @@
       "name": "Government of Nepal Ministry Of Youth and Sports",
       "url": "https://moys.gov.np/",
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
+    },
+    {
+      "name": "Health Insurance Board",
+      "url": "https://hib.gov.np/",
+      "description": "Official Website of Health Insurance Board"
     },
     {
       "name": "Inland Revenue Department",
@@ -414,6 +429,11 @@
       "name": "Nepal National Single Window",
       "url": "http://nnsw.gov.np",
       "description": "Nepal National Single Window"
+    },
+    {
+      "name": "Nepal Oil COrporation",
+      "url": "https://noc.org.np/",
+      "description": "Official Website Of Nepal Oil Corporation"
     },
     {
       "name": "Nepal Police",
