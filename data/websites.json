@@ -171,21 +171,6 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
-      "name": "District Administration Office, Bajhang",
-      "url": "https://daobajhang.moha.gov.np/",
-      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Bajhang"
-    },
-    {
-      "name": "District Administration Office, Nawalparasi (Bardaghat Susta East)",
-      "url": "https://daonawalparasieast.moha.gov.np/",
-      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Nawalparasi (Bardhghat Susta East)"
-    },
-    {
-      "name": "District Administration Office, Nawalparasi (Bardaghat Susta West)",
-      "url": "https://daonawalparasiwest.moha.gov.np/en",
-      "description": "Nepal Government Ministry of Home Affairs District Administration Office, Nawalparasi (Bardhghat Susta West)"
-    },
-    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
@@ -544,11 +529,6 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
-    },
-    {
-      "name": "District Administration Office of Rupandehi",
-      "url": "https://daorupandehi.moha.gov.np/en",
-      "description": "Official Website Of District  Administration Office Of Rupandehi"
     }
   ]
 }
