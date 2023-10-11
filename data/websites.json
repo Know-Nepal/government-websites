@@ -131,6 +131,11 @@
       "description": "Office of the Department of Customs under Ministry of Finance"
     },
     {
+      "name": "Department of Health Service",
+      "url": "http://dohs.gov.np/",
+      "description": "Office of the Department of Health Service"
+    },
+    {
       "name": "Department of Hydrology and Meteorology",
       "url": "https://dhm.gov.np/",
       "description": "Office of the Department of Hydrology and Meteorology"
@@ -201,6 +206,11 @@
       "description": "Official Website of Galyang Municipality"
     },
     {
+      "name": "General Post Office",
+      "url": "https://www.gpo.gov.np/",
+      "description": "Official Website of General Post Office"
+    },
+    {
       "name": "Godawari Municipality",
       "url": "https://godawarimunkailali.gov.np/",
       "description": "Official Website of Godawari Municipality"
@@ -219,6 +229,11 @@
       "name": "Inland Revenue Department",
       "url": "https://ird.gov.np/",
       "description": "Inland Revenue Department's Official Site"
+    },
+    {
+      "name": "Investment Board Nepal",
+      "url": "https://ibn.gov.np/",
+      "description": "Official Website of Investment Board Nepal"
     },
     {
       "name": "Karnali Pradesh",
@@ -474,6 +489,11 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Public Procurement Monitoring Office",
+      "url": "https://www.bolpatra.gov.np/",
+      "description": "Official Website of Public Procurement Monitoring Office"
     },
     {
       "name": "Purchaudi Municipality",
