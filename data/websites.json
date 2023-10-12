@@ -131,6 +131,11 @@
       "description": "Office of the Department of Customs under Ministry of Finance"
     },
     {
+      "name": "Department of Drug Administration",
+      "url": "https://dda.gov.np/",
+      "description": "Office of the Department of Drug Administration under Ministry of Health"
+    },
+    {
       "name": "Department of Hydrology and Meteorology",
       "url": "https://dhm.gov.np/",
       "description": "Office of the Department of Hydrology and Meteorology"
