@@ -26,16 +26,6 @@
       "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
     },
     {
-      "name": "Bhadrapur Municipality",
-      "url": "https://bhadrapurmun.gov.np/en",
-      "description": "Official Website of Bhadrapur Municipality"
-    },
-    {
-      "name": "Bharatpur Municipality",
-      "url": "https://bharatpurmun.gov.np/",
-      "description": "Official Website of Bharatpur Municipality"
-    },
-    {
       "name": "Bedkot Municipality",
       "url": "https://bedkotmun.gov.np/",
       "description": "Official Website of Bedkot Municipality"
@@ -46,9 +36,19 @@
       "description": "Official Website of Belauri Municipality"
     },
     {
+      "name": "Bhadrapur Municipality",
+      "url": "https://bhadrapurmun.gov.np/en",
+      "description": "Official Website of Bhadrapur Municipality"
+    },
+    {
       "name": "Bhajani Municipality",
       "url": "https://bhajanimun.gov.np/",
       "description": "Official Website of Bhajani Municipality"
+    },
+    {
+      "name": "Bharatpur Municipality",
+      "url": "https://bharatpurmun.gov.np/",
+      "description": "Official Website of Bharatpur Municipality"
     },
     {
       "name": "Budhanilkantha Municipality",
@@ -71,11 +71,6 @@
       "description": "Central Beuro of Statistics"
     },
     {
-      "name": "Chitwan National Park",
-      "url": "https://chitwannationalpark.gov.np/",
-      "description": "Official Website of Chitwan National Park"
-    },
-    {
       "name": "Chandragiri Municipality",
       "url": "https://www.chandragirimun.gov.np/",
       "description": "Official website of Chandragiri Municipality"
@@ -84,6 +79,11 @@
       "name": "Chhatrakot Rural Municipality",
       "url": "https://chhatrakotmun.gov.np/",
       "description": "Official Website Of Chhatrakot Rural Municipality"
+    },
+    {
+      "name": "Chitwan National Park",
+      "url": "https://chitwannationalpark.gov.np/",
+      "description": "Official Website of Chitwan National Park"
     },
     {
       "name": "Commission for the Investigation of Abuse of Authority",
@@ -96,24 +96,9 @@
       "description": "Official Website of Damak Municipality"
     },
     {
-      "name": "Department of Roads",
-      "url": "https://www.dor.gov.np/",
-      "description": "Official Website of Department of Roads"
-    },
-    {
-      "name": "Dhangadhi Sub-Metropolitan City",
-      "url": "https://dhangadhimun.gov.np/",
-      "description": "Official Website of Dhangadhi Sub-Metropolitan City"
-    },
-    {
       "name": "Dasharathchand Municipality",
       "url": "https://dasharathchandmun.gov.np/",
       "description": "Official Website of Dasharathchand Municipality"
-    },
-    {
-      "name": "Dipayalsilgadhi Municipality",
-      "url": "https://dipayalsilgadhimun.gov.np/",
-      "description": "Official Website of Dipayalsilgadhi Municipality"
     },
     {
       "name": "Department of Agriculture",
@@ -171,6 +156,11 @@
       "description": "Official Website of Department of Postal Service"
     },
     {
+      "name": "Department of Roads",
+      "url": "https://www.dor.gov.np/",
+      "description": "Official Website of Department of Roads"
+    },
+    {
       "name": "Department of Survey",
       "url": "https://dos.gov.np/",
       "description": "Official Website of Department of Survey. Mapping agency of Government of Nepal"
@@ -179,6 +169,16 @@
       "name": "Department of Transport Management",
       "url": "https://www.dotm.gov.np/",
       "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "Dhangadhi Sub-Metropolitan City",
+      "url": "https://dhangadhimun.gov.np/",
+      "description": "Official Website of Dhangadhi Sub-Metropolitan City"
+    },
+    {
+      "name": "Dipayalsilgadhi Municipality",
+      "url": "https://dipayalsilgadhimun.gov.np/",
+      "description": "Official Website of Dipayalsilgadhi Municipality"
     },
     {
       "name": "District Administration Office, Achham",
@@ -576,14 +576,14 @@
       "description": "Official Website Gaindakot Municipality"
     },
     {
-      "name": "Gandaki Pradesh",
-      "url": "https://gandaki.gov.np/",
-      "description": "Official Website of Portal to Gandaki Pradesh"
-    },
-    {
       "name": "Galyang Municipality",
       "url": "https://galyangmun.gov.np/",
       "description": "Official Website of Galyang Municipality"
+    },
+    {
+      "name": "Gandaki Pradesh",
+      "url": "https://gandaki.gov.np/",
+      "description": "Official Website of Portal to Gandaki Pradesh"
     },
     {
       "name": "General Post Office",
@@ -591,14 +591,14 @@
       "description": "Official Website of General Post Office"
     },
     {
-      "name": "Godawari Municipality",
-      "url": "https://godawarimunkailali.gov.np/",
-      "description": "Official Website of Godawari Municipality"
-    },
-    {
       "name": "Ghodaghodi Municipality",
       "url": "https://ghodaghodimun.gov.np/",
       "description": "Official Website of Ghodaghodi Municipality"
+    },
+    {
+      "name": "Godawari Municipality",
+      "url": "https://godawarimunkailali.gov.np/",
+      "description": "Official Website of Godawari Municipality"
     },
     {
       "name": "Government of Nepal Ministry Of Youth and Sports",
@@ -856,11 +856,6 @@
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
     },
     {
-      "name": "Public Service Commission",
-      "url": "https://psc.gov.np/",
-      "description": "Official Website of Lok Sewa Aayog | PSC"
-    },
-    {
       "name": "Parshuram Municipality",
       "url": "https://parshurammun.gov.np/",
       "description": "Official Website of Parshuram Municipality"
@@ -869,6 +864,11 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Public Service Commission",
+      "url": "https://psc.gov.np/",
+      "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
       "name": "Purchaudi Municipality",
@@ -891,6 +891,16 @@
       "description": "Official Website Of Ruru Rural Municipality"
     },
     {
+      "name": "Shailyashikhar Municipality",
+      "url": "https://shailyashikharmun.gov.np/",
+      "description": "Official Website Of Shailyashikhar Municipality"
+    },
+    {
+      "name": "Shuklaphanta Municipality",
+      "url": "https://shuklaphantamun.gov.np/",
+      "description": "Official Website Of Shuklaphanta Municipality"
+    },
+    {
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
@@ -901,14 +911,9 @@
       "description": "Official Website Of Supreme Court of Nepal"
     },
     {
-      "name": "Shailyashikhar Municipality",
-      "url": "https://shailyashikharmun.gov.np/",
-      "description": "Official Website Of Shailyashikhar Municipality"
-    },
-    {
-      "name": "Shuklaphanta Municipality",
-      "url": "https://shuklaphantamun.gov.np/",
-      "description": "Official Website Of Shuklaphanta Municipality"
+      "name": "Tansen Municipality",
+      "url": "https://tansenmun.gov.np/en",
+      "description": "Official Website Of Tansen Municipality"
     },
     {
       "name": "Tarakeshwar Municipality",
@@ -929,11 +934,6 @@
       "name": "Tokha Municipality",
       "url": "https://tokhamun.gov.np/",
       "description": "Official Website Of Tokha Municipality"
-    },
-    {
-      "name": "Tansen Municipality",
-      "url": "https://tansenmun.gov.np/en",
-      "description": "Official Website Of Tansen Municipality"
     },
     {
       "name": "Tilottama Municipality",
