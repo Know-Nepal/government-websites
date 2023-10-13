@@ -131,6 +131,11 @@
       "description": "Office of the Department of Customs under Ministry of Finance"
     },
     {
+      "name": "Department of Drug Administration",
+      "url": "https://dda.gov.np/",
+      "description": "Office of the Department of Drug Administration under Ministry of Health"
+    },
+    {
       "name": "Department of Hydrology and Meteorology",
       "url": "https://dhm.gov.np/",
       "description": "Office of the Department of Hydrology and Meteorology"
@@ -159,6 +164,11 @@
       "name": "Department of Passport",
       "url": "https://nepalpassport.gov.np/",
       "description": "Official Website of Department of Passport Nepal"
+    },
+    {
+      "name": "Department of Postal Service",
+      "url": "https://nepalpost.gov.np/",
+      "description": "Official Website of Department of Postal Service"
     },
     {
       "name": "Department of Survey",
@@ -574,6 +584,11 @@
       "name": "Galyang Municipality",
       "url": "https://galyangmun.gov.np/",
       "description": "Official Website of Galyang Municipality"
+    },
+    {
+      "name": "General Post Office",
+      "url": "https://gpo.gov.np/",
+      "description": "Official Website of General Post Office"
     },
     {
       "name": "Godawari Municipality",
