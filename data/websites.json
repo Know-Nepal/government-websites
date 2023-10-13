@@ -274,7 +274,7 @@
       "name": "District Administration Office, Dhanusha",
       "url": "https://daodhanusha.moha.gov.np",
       "description": "Official Website Of District Administration Office Of Dhanusha"
-    },    
+    },
     {
       "name": "District Administration Office, Dolakha",
       "url": "https://daodolakha.moha.gov.np",
@@ -331,9 +331,9 @@
       "description": "Official Website Of District Administration Office Of Kailali"
     },
     {
-      "name":"District Administration Office, Kalikot",
-      "url":"https://daokalikot.moha.gov.np",
-      "description":"Official Website Of District Administration Office Of Kalikot"
+      "name": "District Administration Office, Kalikot",
+      "url": "https://daokalikot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kalikot"
     },
     {
       "name": "District Administration Office, Kanchanpur",
@@ -856,6 +856,11 @@
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
     },
     {
+      "name": "Online Driving License System",
+      "url": "https://applydl.dotm.gov.np/",
+      "description": "The Online Driving License System is a web application providing services related to driving license registration and operation. It is a part of the Transport Management Information System (TMIS) developed by the Department of Transport Management (DoTM)."
+    },
+    {
       "name": "Parshuram Municipality",
       "url": "https://parshurammun.gov.np/",
       "description": "Official Website of Parshuram Municipality"
@@ -944,6 +949,11 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
+    },
+    {
+      "name": "Transport Management Office, Driving License, Thulobharyang",
+      "url": "http://thulobharyanglicense.bagamati.gov.np",
+      "description": "The Transport Management Office, Driving License, Thulobharyang, is responsible for new driving license issuance, including additional categories, as well as license renewal and verification. It also oversees trial examination centers, ensuring high-quality testing standards."
     },
     {
       "name": "Urlabari Municipality",
