@@ -176,6 +176,11 @@
       "description": "Office of the District Administration Office of Bajhang"
     },
     {
+      "name": "District Administration Office of Banke",
+      "url": "https://daobanke.moha.gov.np/en",
+      "description": "Official Website Of District  Administration Office Of Banke"
+    },
+    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
@@ -441,6 +446,11 @@
       "description": "Official Website of Nepal Trade Information Portal"
     },
     {
+      "name": "Nepalgunj sub metropolitan",
+      "url": "https://nepalgunjmun.gov.np/",
+      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
+    },
+    {
       "name": "Office of the Policy Research Institute",
       "url": "https://pri.gov.np/",
       "description": "Official Website of the Office of the Policy Research Institute"
@@ -539,16 +549,7 @@
       "name": "District Administration Office of Rupandehi",
       "url": "https://daorupandehi.moha.gov.np/en",
       "description": "Official Website Of District  Administration Office Of Rupandehi"
-    },
-    {
-      "name": "Nepalgunj sub metropolitan",
-      "url": "https://nepalgunjmun.gov.np/",
-      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
-    },
-    {
-      "name": "District Administration Office of Banke",
-      "url": "https://daobanke.moha.gov.np/en",
-      "description": "Official Website Of District  Administration Office Of Banke"
     }
+    
   ]
 }
