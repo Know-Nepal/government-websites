@@ -911,6 +911,11 @@
       "description": "Official Website Of Supreme Court of Nepal"
     },
     {
+      "name": "Surunga Municipality",
+      "url": "https://surungamun.gov.np",
+      "description": "Official Website of Surunga Municipality"
+    },
+    {
       "name": "Tansen Municipality",
       "url": "https://tansenmun.gov.np/en",
       "description": "Official Website Of Tansen Municipality"
@@ -939,6 +944,11 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
+    },
+    {
+      "name": "Urlabari Municipality",
+      "url": "https://urlabarimun.gov.np/",
+      "description": "Official Website Of Urlabari Municipality"
     }
   ]
 }
