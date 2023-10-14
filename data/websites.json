@@ -846,7 +846,7 @@
       "description": "Official Website of Nepal Trade Information Portal"
     },
     {
-      "name": "Nepalgunj Sub metropolitan",
+      "name": "Nepalgunj Sub Metropolitan",
       "url": "https://nepalgunjmun.gov.np/",
       "description": "Official Website Of Nepalgunj Sub-metropolitian city"
     },
@@ -970,6 +970,5 @@
       "url": "https://urlabarimun.gov.np/",
       "description": "Official Website Of Urlabari Municipality"
     }
-    
   ]
 }
