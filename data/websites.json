@@ -566,6 +566,11 @@
       "description": "Official Website Of District Administration Office Of Udayapur"
     },
     {
+      "name": "District Administration Office of Banke",
+      "url": "https://daobanke.moha.gov.np/",
+      "description": "Official Website Of District  Administration Office Of Banke"
+    },
+    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
@@ -850,6 +855,11 @@
       "name": "Nepal Trade Information Portal (NTIP)",
       "url": "https://nepaltradeportal.gov.np/",
       "description": "Official Website of Nepal Trade Information Portal"
+    },
+    {
+      "name": "Nepalgunj Sub Metropolitan",
+      "url": "https://nepalgunjmun.gov.np/",
+      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
     },
     {
       "name": "Office of the Policy Research Institute",
