@@ -586,6 +586,11 @@
       "description": "Official Website of Portal to Gandaki Pradesh"
     },
     {
+      "name": "Gandaki Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.gandaki.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
       "name": "General Post Office",
       "url": "https://gpo.gov.np/",
       "description": "Official Website of General Post Office"
@@ -616,6 +621,11 @@
       "description": "Official Website of Portal to Karnali Pradesh"
     },
     {
+      "name": "Karnali Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "http://ocmcm.karnali.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
@@ -629,6 +639,11 @@
       "name": "Koshi Pradesh",
       "url": "https://koshi.gov.np/",
       "description": "Official Website of Portal to Koshi Pradesh"
+    },
+    {
+      "name": "Koshi Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.koshi.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Krishnapur Municipality",
@@ -651,7 +666,7 @@
       "description": "National program for inclusive, accountable local governance and poverty reduction in Nepal."
     },
     {
-      "name": "Lumbini Pradesh",
+      "name": "Lumbini Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.lumbini.gov.np/",
       "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
     },
@@ -659,6 +674,12 @@
       "name": "Madhesh Pradesh",
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
+    },
+    
+    {
+      "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.madhesh.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Melauli Municipality",
@@ -786,11 +807,6 @@
       "description": "The Official Portal of Nepal's National Health Training Center"
     },
     {
-      "name": "National Human Rights Commission",
-      "url": "https://www.nhrcnepal.org/",
-      "description": "Official Website of National Human Rights Commision"
-    },
-    {
       "name": "National Information Technology Center",
       "url": "https://nitc.gov.np/",
       "description": "Official Website of Nepal Government's NITC"
@@ -819,11 +835,6 @@
       "name": "Nepal Police",
       "url": "https://nepalpolice.gov.np",
       "description": "Official Website Of Nepal Police"
-    },
-    {
-      "name": "Nepal Rastra Bank",
-      "url": "https://www.nrb.org.np/",
-      "description": "Official Website for the Central Bank of Nepal"
     },
     {
       "name": "Nepal Telecommunication Authority",
@@ -909,6 +920,11 @@
       "name": "Sudurpaschim Pradesh",
       "url": "https://sudurpashchim.gov.np/",
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
+    },
+    {
+      "name": "Sudurpaschim Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.sudurpashchim.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Supreme Court",
