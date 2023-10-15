@@ -588,7 +588,7 @@
     {
       "name": "District Administration Office of Banke",
       "url": "https://daobanke.moha.gov.np/",
-      "description": "Official Website Of District  Administration Office Of Banke"
+      "description": "Official Website Of District Administration Office Of Banke"
     },
     {
       "name": "Election Commission",
@@ -596,9 +596,14 @@
       "description": "Election Commission Nepal's Official Website"
     },
     {
+      "name": "Film Development Board",
+      "url": "https://film.gov.np/",
+      "description": "Film Development Board's Official Website"
+    },
+    {
       "name": "Gaindakot Municipality",
       "url": "https://www.gaindakotmun.gov.np/",
-      "description": "Official Website Gaindakot Municipality"
+      "description": "Official Website of Gaindakot Municipality"
     },
     {
       "name": "Galyang Municipality",
@@ -925,6 +930,11 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Public Procurement Monitoring Office",
+      "url": "https://ppmo.gov.np/",
+      "description": "Official Website of Public Procurement Monitoring Office"
     },
     {
       "name": "Public Service Commission",
