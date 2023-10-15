@@ -76,6 +76,11 @@
       "description": "Official website of Chandragiri Municipality"
     },
     {
+      "name": "Chautara Sangachowkgadhi Municipality",
+      "url": "https://chautarasangachowkgadhimun.gov.np/",
+      "description": "Official website of Chautara Sangachowkgadhi Municipality"
+    },
+    {
       "name": "Chhatrakot Rural Municipality",
       "url": "https://chhatrakotmun.gov.np/",
       "description": "Official Website Of Chhatrakot Rural Municipality"
@@ -566,11 +571,6 @@
       "description": "Official Website Of District Administration Office Of Udayapur"
     },
     {
-      "name": "District Administration Office of Banke",
-      "url": "https://daobanke.moha.gov.np/",
-      "description": "Official Website Of District  Administration Office Of Banke"
-    },
-    {
       "name": "Election Commission",
       "url": "https://election.gov.np/",
       "description": "Election Commission Nepal's Official Website"
@@ -589,11 +589,6 @@
       "name": "Gandaki Pradesh",
       "url": "https://gandaki.gov.np/",
       "description": "Official Website of Portal to Gandaki Pradesh"
-    },
-    {
-      "name": "Gandaki Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "https://ocmcm.gandaki.gov.np/",
-      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "General Post Office",
@@ -621,14 +616,14 @@
       "description": "Inland Revenue Department's Official Site"
     },
     {
-      "name": "Karnali Pradesh",
-      "url": "http://karnali.gov.np/",
+      "name": "Jiri Municipality",
+      "url": "https://jirimun.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
     },
     {
-      "name": "Karnali Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "http://ocmcm.karnali.gov.np/",
-      "description": "Official Website of Office of Chief Minister and Council of Minister"
+      "name": "Karnali Pradesh",
+      "url": "http://karnali.gov.np/",
+      "description": "Official Website of Portal to Karnali Pradesh"
     },
     {
       "name": "Kathmandu Metropolitan City",
@@ -644,11 +639,6 @@
       "name": "Koshi Pradesh",
       "url": "https://koshi.gov.np/",
       "description": "Official Website of Portal to Koshi Pradesh"
-    },
-    {
-      "name": "Koshi Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "https://ocmcm.koshi.gov.np/",
-      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Krishnapur Municipality",
@@ -671,7 +661,7 @@
       "description": "National program for inclusive, accountable local governance and poverty reduction in Nepal."
     },
     {
-      "name": "Lumbini Pradesh | Office of Chief Minister and Council of Minister",
+      "name": "Lumbini Pradesh",
       "url": "https://ocmcm.lumbini.gov.np/",
       "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
     },
@@ -679,12 +669,6 @@
       "name": "Madhesh Pradesh",
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
-    },
-    
-    {
-      "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "https://ocmcm.madhesh.gov.np/",
-      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Melauli Municipality",
@@ -812,6 +796,11 @@
       "description": "The Official Portal of Nepal's National Health Training Center"
     },
     {
+      "name": "National Human Rights Commission",
+      "url": "https://www.nhrcnepal.org/",
+      "description": "Official Website of National Human Rights Commision"
+    },
+    {
       "name": "National Information Technology Center",
       "url": "https://nitc.gov.np/",
       "description": "Official Website of Nepal Government's NITC"
@@ -842,6 +831,11 @@
       "description": "Official Website Of Nepal Police"
     },
     {
+      "name": "Nepal Rastra Bank",
+      "url": "https://www.nrb.org.np/",
+      "description": "Official Website for the Central Bank of Nepal"
+    },
+    {
       "name": "Nepal Telecommunication Authority",
       "url": "https://www.nta.gov.np/en/",
       "description": "Official Website of Nepal Telecommunication Authority"
@@ -857,11 +851,6 @@
       "description": "Official Website of Nepal Trade Information Portal"
     },
     {
-      "name": "Nepalgunj Sub Metropolitan",
-      "url": "https://nepalgunjmun.gov.np/",
-      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
-    },
-    {
       "name": "Office of the Policy Research Institute",
       "url": "https://pri.gov.np/",
       "description": "Official Website of the Office of the Policy Research Institute"
@@ -875,11 +864,6 @@
       "name": "Office of the Prime Minister and Council of Ministers",
       "url": "https://opmcm.gov.np/",
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
-    },
-    {
-      "name": "Online Driving License System",
-      "url": "https://applydl.dotm.gov.np/",
-      "description": "The Online Driving License System is a web application providing services related to driving license registration and operation. It is a part of the Transport Management Information System (TMIS) developed by the Department of Transport Management (DoTM)."
     },
     {
       "name": "Parshuram Municipality",
@@ -932,11 +916,6 @@
       "description": "Official Website of Portal to Sudurpaschim Pradesh"
     },
     {
-      "name": "Sudurpaschim Pradesh | Office of Chief Minister and Council of Minister",
-      "url": "https://ocmcm.sudurpashchim.gov.np/",
-      "description": "Official Website of Office of Chief Minister and Council of Minister"
-    },
-    {
       "name": "Supreme Court",
       "url": "https://supremecourt.gov.np",
       "description": "Official Website Of Supreme Court of Nepal"
@@ -975,11 +954,6 @@
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
-    },
-    {
-      "name": "Transport Management Office, Driving License, Thulobharyang",
-      "url": "http://thulobharyanglicense.bagamati.gov.np",
-      "description": "The Transport Management Office, Driving License, Thulobharyang, is responsible for new driving license issuance, including additional categories, as well as license renewal and verification. It also oversees trial examination centers, ensuring high-quality testing standards."
     },
     {
       "name": "Urlabari Municipality",
