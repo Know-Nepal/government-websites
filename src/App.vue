@@ -74,7 +74,6 @@ export default {
   font-family: "Arial", sans-serif;
   text-align: center;
   color: #4caf50;
-  margin-top: 20px;
 }
 
 .title {
