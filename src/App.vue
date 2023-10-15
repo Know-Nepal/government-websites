@@ -6,7 +6,7 @@
       <input type="text" v-model="searchQuery" placeholder="Search by name" />
     </div>
     <div class="websites-container">
-      <government-website v-for="website in filteredAndPaginatedWebsites" :key="website.name" :website="website" />
+      <government-website v-for="website in paginatedFilteredWebsites" :key="website.name" :website="website" />
     </div>
     <div class="pagination">
       <button @click="previousPage" :disabled="currentPage === 1">Previous</button>
@@ -27,25 +27,31 @@ export default {
   data() {
     return {
       websites: websitesData.items,
+      filteredWebsites: [], 
       searchQuery: "",
       currentPage: 1,
-      websitesPerPage: 8, 
+      websitesPerPage: 8,
     };
   },
+  created() {
+    this.filteredWebsites = this.websites;
+  },
   computed: {
-    filteredAndPaginatedWebsites() {
-      const filteredWebsites = this.websites.filter(website =>
-        website.name.toLowerCase().includes(this.searchQuery.toLowerCase())
-      );
+    paginatedFilteredWebsites() {
       const startIndex = (this.currentPage - 1) * this.websitesPerPage;
       const endIndex = startIndex + this.websitesPerPage;
-      return filteredWebsites.slice(startIndex, endIndex);
+      return this.filteredWebsites.slice(startIndex, endIndex);
     },
     totalPages() {
-      const filteredWebsites = this.websites.filter(website =>
+      return Math.ceil(this.filteredWebsites.length / this.websitesPerPage);
+    },
+  },
+  watch: {
+    searchQuery() {
+      this.filteredWebsites = this.websites.filter(website =>
         website.name.toLowerCase().includes(this.searchQuery.toLowerCase())
       );
-      return Math.ceil(filteredWebsites.length / this.websitesPerPage);
+      this.currentPage = 1;
     },
   },
   methods: {
