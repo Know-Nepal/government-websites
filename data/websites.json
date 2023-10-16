@@ -26,16 +26,6 @@
       "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
     },
     {
-      "name": "Bhadrapur Municipality",
-      "url": "https://bhadrapurmun.gov.np/en",
-      "description": "Official Website of Bhadrapur Municipality"
-    },
-    {
-      "name": "Bharatpur Municipality",
-      "url": "https://bharatpurmun.gov.np/",
-      "description": "Official Website of Bharatpur Municipality"
-    },
-    {
       "name": "Bedkot Municipality",
       "url": "https://bedkotmun.gov.np/",
       "description": "Official Website of Bedkot Municipality"
@@ -46,9 +36,19 @@
       "description": "Official Website of Belauri Municipality"
     },
     {
+      "name": "Bhadrapur Municipality",
+      "url": "https://bhadrapurmun.gov.np/en",
+      "description": "Official Website of Bhadrapur Municipality"
+    },
+    {
       "name": "Bhajani Municipality",
       "url": "https://bhajanimun.gov.np/",
       "description": "Official Website of Bhajani Municipality"
+    },
+    {
+      "name": "Bharatpur Municipality",
+      "url": "https://bharatpurmun.gov.np/",
+      "description": "Official Website of Bharatpur Municipality"
     },
     {
       "name": "Budhanilkantha Municipality",
@@ -71,9 +71,9 @@
       "description": "Central Beuro of Statistics"
     },
     {
-      "name": "Chitwan National Park",
-      "url": "https://chitwannationalpark.gov.np/",
-      "description": "Official Website of Chitwan National Park"
+      "name": "Central Law Library",
+      "url": "http://cll.gov.np/",
+      "description": "Official Website of Central Law Library"
     },
     {
       "name": "Chandragiri Municipality",
@@ -81,9 +81,19 @@
       "description": "Official website of Chandragiri Municipality"
     },
     {
+      "name": "Chautara Sangachowkgadhi Municipality",
+      "url": "https://chautarasangachowkgadhimun.gov.np/",
+      "description": "Official website of Chautara Sangachowkgadhi Municipality"
+    },
+    {
       "name": "Chhatrakot Rural Municipality",
       "url": "https://chhatrakotmun.gov.np/",
       "description": "Official Website Of Chhatrakot Rural Municipality"
+    },
+    {
+      "name": "Chitwan National Park",
+      "url": "https://chitwannationalpark.gov.np/",
+      "description": "Official Website of Chitwan National Park"
     },
     {
       "name": "Commission for the Investigation of Abuse of Authority",
@@ -96,24 +106,9 @@
       "description": "Official Website of Damak Municipality"
     },
     {
-      "name": "Department of Roads",
-      "url": "https://www.dor.gov.np/",
-      "description": "Official Website of Department of Roads"
-    },
-    {
-      "name": "Dhangadhi Sub-Metropolitan City",
-      "url": "https://dhangadhimun.gov.np/",
-      "description": "Official Website of Dhangadhi Sub-Metropolitan City"
-    },
-    {
       "name": "Dasharathchand Municipality",
       "url": "https://dasharathchandmun.gov.np/",
       "description": "Official Website of Dasharathchand Municipality"
-    },
-    {
-      "name": "Dipayalsilgadhi Municipality",
-      "url": "https://dipayalsilgadhimun.gov.np/",
-      "description": "Official Website of Dipayalsilgadhi Municipality"
     },
     {
       "name": "Department of Agriculture",
@@ -134,6 +129,16 @@
       "name": "Department of Forest and Soil Conservation",
       "url": "https://www.dofsc.gov.np/",
       "description": "Official website of Department of Forest and Soil Conservation"
+    },
+    {
+      "name": "Department of Drug Administration",
+      "url": "https://dda.gov.np/",
+      "description": "Office of the Department of Drug Administration under Ministry of Health"
+    },
+    {
+      "name": "Department of Electricity Development",
+      "url": "https://doed.gov.np/",
+      "description": "Office of the Department of Electricity Development under Ministry of Energy, Water Resources and Irrigation"
     },
     {
       "name": "Department of Hydrology and Meteorology",
@@ -166,6 +171,16 @@
       "description": "Official Website of Department of Passport Nepal"
     },
     {
+      "name": "Department of Postal Service",
+      "url": "https://nepalpost.gov.np/",
+      "description": "Official Website of Department of Postal Service"
+    },
+    {
+      "name": "Department of Roads",
+      "url": "https://www.dor.gov.np/",
+      "description": "Official Website of Department of Roads"
+    },
+    {
       "name": "Department of Survey",
       "url": "https://dos.gov.np/",
       "description": "Official Website of Department of Survey. Mapping agency of Government of Nepal"
@@ -176,9 +191,409 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
-      "name": "District Administration Office of Bajhang",
-      "url": "https://daobajhang.moha.gov.np/",
-      "description": "Office of the District Administration Office of Bajhang"
+      "name": "Department of Urban Development and Building Construction",
+      "url": "https://dudbc.gov.np/",
+      "description": "Official Website of Department of Urban Development and Building Construction"
+    },
+    {
+      "name": "Dhangadhi Sub-Metropolitan City",
+      "url": "https://dhangadhimun.gov.np/",
+      "description": "Official Website of Dhangadhi Sub-Metropolitan City"
+    },
+    {
+      "name": "Dipayalsilgadhi Municipality",
+      "url": "https://dipayalsilgadhimun.gov.np/",
+      "description": "Official Website of Dipayalsilgadhi Municipality"
+    },
+    {
+      "name": "District Administration Office, Achham",
+      "url": "https://daoachham.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Achham"
+    },
+    {
+      "name": "District Administration Office, Arghakhanchi",
+      "url": "https://daoarghakhanchi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Arghakhanchi"
+    },
+    {
+      "name": "District Administration Office, Baglung",
+      "url": "https://daobaglung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Baglung"
+    },
+    {
+      "name": "District Administration Office, Baitadi",
+      "url": "https://daobaitadi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Baitadi"
+    },
+    {
+      "name": "District Administration Office, Bajhang",
+      "url": "https://daobajhang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bajhang"
+    },
+    {
+      "name": "District Administration Office, Bajura",
+      "url": "https://daobajura.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bajura"
+    },
+    {
+      "name": "District Administration Office, Banke",
+      "url": "https://daobanke.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Banke"
+    },
+    {
+      "name": "District Administration Office, Bara",
+      "url": "https://daobara.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bara"
+    },
+    {
+      "name": "District Administration Office, Bardiya",
+      "url": "https://daobardiya.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bardiya"
+    },
+    {
+      "name": "District Administration Office, Bhaktapur",
+      "url": "https://daobhaktapur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bhaktapur"
+    },
+    {
+      "name": "District Administration Office, Bhojpur",
+      "url": "https://daobhojpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Bhojpur"
+    },
+    {
+      "name": "District Administration Office, Chitwan",
+      "url": "https://daochitwan.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Chitwan"
+    },
+    {
+      "name": "District Administration Office, Dadeldhura",
+      "url": "https://daodadeldhura.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dadeldhura"
+    },
+    {
+      "name": "District Administration Office, Dailekh",
+      "url": "https://daodailekh.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dailekh"
+    },
+    {
+      "name": "District Administration Office, Dang",
+      "url": "https://daodang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dang"
+    },
+    {
+      "name": "District Administration Office, Darchula",
+      "url": "https://daodarchula.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Darchula"
+    },
+    {
+      "name": "District Administration Office, Dhading",
+      "url": "https://daodhading.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dhading"
+    },
+    {
+      "name": "District Administration Office, Dhankuta",
+      "url": "https://daodhankuta.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Dhankuta"
+    },
+    {
+      "name": "District Administration Office, Dhanusha",
+      "url": "https://daodhanusha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dhanusha"
+    },
+    {
+      "name": "District Administration Office, Dolakha",
+      "url": "https://daodolakha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dolakha"
+    },
+    {
+      "name": "District Administration Office, Dolpa",
+      "url": "https://daodolpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Dolpa"
+    },
+    {
+      "name": "District Administration Office, Doti",
+      "url": "https://daodoti.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Doti"
+    },
+    {
+      "name": "District Administration Office, Gorkha",
+      "url": "https://daogorkha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Gorkha"
+    },
+    {
+      "name": "District Administration Office, Gulmi",
+      "url": "https://daogulmi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Gulmi"
+    },
+    {
+      "name": "District Administration Office, Humla",
+      "url": "https://daohumla.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Humla"
+    },
+    {
+      "name": "District Administration Office, Ilam",
+      "url": "https://daoilam.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Ilam"
+    },
+    {
+      "name": "District Administration Office, Jajarkot",
+      "url": "https://daojajarkot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jajarkot"
+    },
+    {
+      "name": "District Administration Office, Jhapa",
+      "url": "https://daojhapa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jhapa"
+    },
+    {
+      "name": "District Administration Office, Jumla",
+      "url": "https://daojumla.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Jumla"
+    },
+    {
+      "name": "District Administration Office, Kailali",
+      "url": "https://daokailali.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kailali"
+    },
+    {
+      "name": "District Administration Office, Kalikot",
+      "url": "https://daokalikot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kalikot"
+    },
+    {
+      "name": "District Administration Office, Kanchanpur",
+      "url": "https://daokanchanpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kanchanpur"
+    },
+    {
+      "name": "District Administration Office, Kapilvastu",
+      "url": "https://daokapilvastu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kapilvastu"
+    },
+    {
+      "name": "District Administration Office, Kaski",
+      "url": "https://daokaski.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kaski"
+    },
+    {
+      "name": "District Administration Office, Kathmandu",
+      "url": "https://daokathmandu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Kathmandu"
+    },
+    {
+      "name": "District Administration Office, Kavrepalanchok",
+      "url": "https://daokavrepalanchok.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Kavrepalanchok"
+    },
+    {
+      "name": "District Administration Office, Khotang",
+      "url": "https://daokhotang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Khotang"
+    },
+    {
+      "name": "District Administration Office, Lalitpur",
+      "url": "https://daolalitpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Lalitpur"
+    },
+    {
+      "name": "District Administration Office, Lamjung",
+      "url": "https://daolamjung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Lamjung"
+    },
+    {
+      "name": "District Administration Office, Mahottari",
+      "url": "https://daomahotari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mahottari"
+    },
+    {
+      "name": "District Administration Office, Makawanpur",
+      "url": "https://daomakawanpur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Makawanpur"
+    },
+    {
+      "name": "District Administration Office, Manang",
+      "url": "https://daomanang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Manang"
+    },
+    {
+      "name": "District Administration Office, Morang",
+      "url": "https://daomorang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Morang"
+    },
+    {
+      "name": "District Administration Office, Mugu",
+      "url": "https://daomugu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mugu"
+    },
+    {
+      "name": "District Administration Office, Mustang",
+      "url": "https://daomustang.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Mustang"
+    },
+    {
+      "name": "District Administration Office, Myagdi",
+      "url": "https://daomyagdi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Myagdi"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi East",
+      "url": "https://daonawalparasieast.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nawalparasi East"
+    },
+    {
+      "name": "District Administration Office, Nawalparasi West",
+      "url": "https://daonawalparasiwest.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nawalparasi West"
+    },
+    {
+      "name": "District Administration Office, Nuwakot",
+      "url": "https://daonuwakot.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Nuwakot"
+    },
+    {
+      "name": "District Administration Office, Okhaldhunga",
+      "url": "https://daookhaldhunga.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Okhaldhunga"
+    },
+    {
+      "name": "District Administration Office, Palpa",
+      "url": "https://daopalpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Palpa"
+    },
+    {
+      "name": "District Administration Office, Panchthar",
+      "url": "https://daopanchthar.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Panchthar"
+    },
+    {
+      "name": "District Administration Office, Parbat",
+      "url": "https://daoparbat.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Parbat"
+    },
+    {
+      "name": "District Administration Office, Parsa",
+      "url": "https://daoparsa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Parsa"
+    },
+    {
+      "name": "District Administration Office, Pyuthan",
+      "url": "https://daopyuthan.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Pyuthan"
+    },
+    {
+      "name": "District Administration Office, Ramechhap",
+      "url": "https://daoramechhap.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Ramechhap"
+    },
+    {
+      "name": "District Administration Office, Rasuwa",
+      "url": "https://daorasuwa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rasuwa"
+    },
+    {
+      "name": "District Administration Office, Rukum East",
+      "url": "https://daorukumeast.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum East"
+    },
+    {
+      "name": "District Administration Office, Rukum West",
+      "url": "https://daorukumwest.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum West"
+    },
+    {
+      "name": "District Administration Office, Rautahat",
+      "url": "https://daorautahat.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rautahat"
+    },
+    {
+      "name": "District Administration Office, Rolpa",
+      "url": "https://daorolpa.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rolpa"
+    },
+    {
+      "name": "District Administration Office, Rupandehi",
+      "url": "https://daorupandehi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rupandehi"
+    },
+    {
+      "name": "District Administration Office, Salyan",
+      "url": "https://daosalyan.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Salyan"
+    },
+    {
+      "name": "District Administration Office, Sankhuwasabha",
+      "url": "https://daosankhuwasabha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sankhuwasabha"
+    },
+    {
+      "name": "District Administration Office, Saptari",
+      "url": "https://daosaptari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Saptari"
+    },
+    {
+      "name": "District Administration Office, Sarlahi",
+      "url": "https://daosarlahi.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sarlahi"
+    },
+    {
+      "name": "District Administration Office, Sindhuli",
+      "url": "https://daosindhuli.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sindhuli"
+    },
+    {
+      "name": "District Administration Office, Sindhupalchok",
+      "url": "https://daosindhupalchok.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sindhupalchok"
+    },
+    {
+      "name": "District Administration Office, Siraha",
+      "url": "https://daosiraha.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Siraha"
+    },
+    {
+      "name": "District Administration Office, Solukhumbu",
+      "url": "https://daosolukhumbu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Solukhumbu"
+    },
+    {
+      "name": "District Administration Office, Sunsari",
+      "url": "https://daosunsari.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Sunsari"
+    },
+    {
+      "name": "District Administration Office, Surkhet",
+      "url": "https://daosurkhet.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Surkhet"
+    },
+    {
+      "name": "District Administration Office, Syangja",
+      "url": "https://daosyangja.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Syangja"
+    },
+    {
+      "name": "District Administration Office, Tanahu",
+      "url": "https://daotanahu.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Tanahu"
+    },
+    {
+      "name": "District Administration Office, Taplejung",
+      "url": "https://daotaplejung.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Taplejung"
+    },
+    {
+      "name": "District Administration Office, Terhathum",
+      "url": "https://daoterathum.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Terhathum"
+    },
+    {
+      "name": "District Administration Office, Udayapur",
+      "url": "https://daoudayapur.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Udayapur"
+    },
+    {
+      "name": "District Administration Office of Banke",
+      "url": "https://daobanke.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Banke"
     },
     {
       "name": "Election Commission",
@@ -191,14 +606,14 @@
       "description": "Official Website of Family Welfare Division"
     },
     {
-      "name": "Gaindakot Municipality",
-      "url": "https://www.gaindakotmun.gov.np/",
-      "description": "Official Website Gaindakot Municipality"
+      "name": "Film Development Board",
+      "url": "https://film.gov.np/",
+      "description": "Film Development Board's Official Website"
     },
     {
-      "name": "Gandaki Pradesh",
-      "url": "https://gandaki.gov.np/",
-      "description": "Official Website of Portal to Gandaki Pradesh"
+      "name": "Gaindakot Municipality",
+      "url": "https://www.gaindakotmun.gov.np/",
+      "description": "Official Website of Gaindakot Municipality"
     },
     {
       "name": "Galyang Municipality",
@@ -206,14 +621,29 @@
       "description": "Official Website of Galyang Municipality"
     },
     {
-      "name": "Godawari Municipality",
-      "url": "https://godawarimunkailali.gov.np/",
-      "description": "Official Website of Godawari Municipality"
+      "name": "Gandaki Pradesh",
+      "url": "https://gandaki.gov.np/",
+      "description": "Official Website of Portal to Gandaki Pradesh"
+    },
+    {
+      "name": "Gandaki Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.gandaki.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "General Post Office",
+      "url": "https://gpo.gov.np/",
+      "description": "Official Website of General Post Office"
     },
     {
       "name": "Ghodaghodi Municipality",
       "url": "https://ghodaghodimun.gov.np/",
       "description": "Official Website of Ghodaghodi Municipality"
+    },
+    {
+      "name": "Godawari Municipality",
+      "url": "https://godawarimunkailali.gov.np/",
+      "description": "Official Website of Godawari Municipality"
     },
     {
       "name": "Government of Nepal Ministry Of Youth and Sports",
@@ -226,9 +656,19 @@
       "description": "Inland Revenue Department's Official Site"
     },
     {
+      "name": "Jiri Municipality",
+      "url": "https://jirimun.gov.np/",
+      "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
       "name": "Karnali Pradesh",
       "url": "http://karnali.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
+      "name": "Karnali Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "http://ocmcm.karnali.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Kathmandu Metropolitan City",
@@ -246,6 +686,11 @@
       "description": "Official Website of Portal to Koshi Pradesh"
     },
     {
+      "name": "Koshi Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.koshi.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
       "name": "Krishnapur Municipality",
       "url": "https://krishnapurmun.gov.np/",
       "description": "Official Website of Krishnapur Municipality"
@@ -261,7 +706,12 @@
       "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
     },
     {
-      "name": "Lumbini Pradesh",
+      "name": "Local Governance and Community Development Programme",
+      "url": "http://lgcdp.gov.np/",
+      "description": "National program for inclusive, accountable local governance and poverty reduction in Nepal."
+    },
+    {
+      "name": "Lumbini Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.lumbini.gov.np/",
       "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
     },
@@ -269,6 +719,12 @@
       "name": "Madhesh Pradesh",
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
+    },
+
+    {
+      "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.madhesh.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
       "name": "Melauli Municipality",
@@ -396,14 +852,14 @@
       "description": "The Official Portal of Nepal's National Health Training Center"
     },
     {
-      "name": "National Human Rights Commission",
-      "url": "https://www.nhrcnepal.org/",
-      "description": "Official Website of National Human Rights Commision"
-    },
-    {
       "name": "National Information Technology Center",
       "url": "https://nitc.gov.np/",
       "description": "Official Website of Nepal Government's NITC"
+    },
+    {
+      "name": "Nepal Agricultural Research Council",
+      "url": "https://narc.gov.np/",
+      "description": "Official Website of Nepal Agricultural Research Council"
     },
     {
       "name": "Nepal Engineering Council",
@@ -414,6 +870,11 @@
       "name": "Nepal Government National Portal",
       "url": "http://www.nepal.gov.np/",
       "description": "The Official Portal of Government of Nepal"
+    },
+    {
+      "name": "Nepal Kanun Patrika",
+      "url": "https://nkp.gov.np/",
+      "description": "Official Website of Nepal Kanun Patrika"
     },
     {
       "name": "Nepal Law Commission",
@@ -431,11 +892,6 @@
       "description": "Official Website Of Nepal Police"
     },
     {
-      "name": "Nepal Rastra Bank",
-      "url": "https://www.nrb.org.np/",
-      "description": "Official Website for the Central Bank of Nepal"
-    },
-    {
       "name": "Nepal Telecommunication Authority",
       "url": "https://www.nta.gov.np/en/",
       "description": "Official Website of Nepal Telecommunication Authority"
@@ -449,6 +905,11 @@
       "name": "Nepal Trade Information Portal (NTIP)",
       "url": "https://nepaltradeportal.gov.np/",
       "description": "Official Website of Nepal Trade Information Portal"
+    },
+    {
+      "name": "Nepalgunj Sub Metropolitan",
+      "url": "https://nepalgunjmun.gov.np/",
+      "description": "Official Website Of Nepalgunj Sub-metropolitian city"
     },
     {
       "name": "Office of the Policy Research Institute",
@@ -466,9 +927,9 @@
       "description": "Nepal Government Office of the Prime Minister and Council of Ministers Official Site"
     },
     {
-      "name": "Public Service Commission",
-      "url": "https://psc.gov.np/",
-      "description": "Official Website of Lok Sewa Aayog | PSC"
+      "name": "Online Driving License System",
+      "url": "https://applydl.dotm.gov.np/",
+      "description": "The Online Driving License System is a web application providing services related to driving license registration and operation. It is a part of the Transport Management Information System (TMIS) developed by the Department of Transport Management (DoTM)."
     },
     {
       "name": "Parshuram Municipality",
@@ -479,6 +940,16 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Public Procurement Monitoring Office",
+      "url": "https://ppmo.gov.np/",
+      "description": "Official Website of Public Procurement Monitoring Office"
+    },
+    {
+      "name": "Public Service Commission",
+      "url": "https://psc.gov.np/",
+      "description": "Official Website of Lok Sewa Aayog | PSC"
     },
     {
       "name": "Purchaudi Municipality",
@@ -501,16 +972,6 @@
       "description": "Official Website Of Ruru Rural Municipality"
     },
     {
-      "name": "Sudurpaschim Pradesh",
-      "url": "https://sudurpashchim.gov.np/",
-      "description": "Official Website of Portal to Sudurpaschim Pradesh"
-    },
-    {
-      "name": "Supreme Court",
-      "url": "https://supremecourt.gov.np",
-      "description": "Official Website Of Supreme Court of Nepal"
-    },
-    {
       "name": "Shailyashikhar Municipality",
       "url": "https://shailyashikharmun.gov.np/",
       "description": "Official Website Of Shailyashikhar Municipality"
@@ -521,9 +982,39 @@
       "description": "Official Website Of Shuklaphanta Municipality"
     },
     {
+      "name": "Sudurpaschim Pradesh",
+      "url": "https://sudurpashchim.gov.np/",
+      "description": "Official Website of Portal to Sudurpaschim Pradesh"
+    },
+    {
+      "name": "Sudurpaschim Pradesh | Office of Chief Minister and Council of Minister",
+      "url": "https://ocmcm.sudurpashchim.gov.np/",
+      "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Supreme Court",
+      "url": "https://supremecourt.gov.np",
+      "description": "Official Website Of Supreme Court of Nepal"
+    },
+    {
+      "name": "Surunga Municipality",
+      "url": "https://surungamun.gov.np",
+      "description": "Official Website of Surunga Municipality"
+    },
+    {
+      "name": "Tansen Municipality",
+      "url": "https://tansenmun.gov.np/en",
+      "description": "Official Website Of Tansen Municipality"
+    },
+    {
       "name": "Tarakeshwar Municipality",
       "url": "https://tarakeshwormun.gov.np/",
       "description": "Official website of Tarakeshwar Municipality"
+    },
+    {
+      "name": "Teachers Service Commission",
+      "url": "https://tsc.gov.np/",
+      "description": "Official website of Teachers Service Commission"
     },
     {
       "name": "Tikapur Municipality",
@@ -536,19 +1027,19 @@
       "description": "Official Website Of Tokha Municipality"
     },
     {
-      "name": "Tansen Municipality",
-      "url": "https://tansenmun.gov.np/en",
-      "description": "Official Website Of Tansen Municipality"
-    },
-    {
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
     },
     {
-      "name": "District Administration Office of Rupandehi",
-      "url": "https://daorupandehi.moha.gov.np/en",
-      "description": "Official Website Of District  Administration Office Of Rupandehi"
+      "name": "Transport Management Office, Driving License, Thulobharyang",
+      "url": "http://thulobharyanglicense.bagamati.gov.np",
+      "description": "The Transport Management Office, Driving License, Thulobharyang, is responsible for new driving license issuance, including additional categories, as well as license renewal and verification. It also oversees trial examination centers, ensuring high-quality testing standards."
+    },
+    {
+      "name": "Urlabari Municipality",
+      "url": "https://urlabarimun.gov.np/",
+      "description": "Official Website Of Urlabari Municipality"
     }
   ]
 }
