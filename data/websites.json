@@ -36,6 +36,11 @@
       "description": "Official Website of Bharatpur Municipality"
     },
     {
+      "name": "Bheerkot Municipality",
+      "url": "https://bheerkotmun.gov.np/",
+      "description": "Official Website of Bheerkot Municipality"
+    },
+    {
       "name": "Bedkot Municipality",
       "url": "https://bedkotmun.gov.np/",
       "description": "Official Website of Bedkot Municipality"
@@ -539,6 +544,11 @@
       "name": "District Administration Office of Rupandehi",
       "url": "https://daorupandehi.moha.gov.np/en",
       "description": "Official Website Of District  Administration Office Of Rupandehi"
+    },
+    {
+      "name": "Waling Municipality",
+      "url": "https://walingmun.gov.np/",
+      "description": "Official Website Of Waling Municipality"
     }
   ]
 }
