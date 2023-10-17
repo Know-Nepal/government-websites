@@ -56,6 +56,11 @@
       "description": "Official Website of Budhanilkantha Municipality"
     },
     {
+      "name": "Bhojpur Municipality",
+      "url": "https://bhojpurmun.gov.np/",
+      "description": "Official Website of Bhojpur Municipality"
+    },
+    {
       "name": "Bidur Municipality",
       "url": "https://bidurmun.gov.np/en",
       "description": "Official Website of Bidur Municipality"
@@ -659,6 +664,11 @@
       "name": "Karnali Pradesh | Office of Chief Minister and Council of Minister",
       "url": "http://ocmcm.karnali.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Kataari Municipality",
+      "url": "https://kataarimun.gov.np/",
+      "description": "Official Website of Kataari Municipality"
     },
     {
       "name": "Kathmandu Metropolitan City",
