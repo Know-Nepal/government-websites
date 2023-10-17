@@ -56,6 +56,11 @@
       "description": "Official Website of Budhanilkantha Municipality"
     },
     {
+      "name": "Bhojpur Municipality",
+      "url": "https://bhojpurmun.gov.np/",
+      "description": "Official Website of Bhojpur Municipality"
+    },
+    {
       "name": "Bidur Municipality",
       "url": "https://bidurmun.gov.np/en",
       "description": "Official Website of Bidur Municipality"
@@ -601,9 +606,34 @@
       "description": "Official Website Of District Administration Office Of Banke"
     },
     {
-      "name": "District Administration Office of Syangja",
-      "url": "https://daosyangja.moha.gov.np/",
-      "description": "Office of the District Administration Office of Syangja"
+      "name": "District Coordination Committee of Arghakhanchi",
+      "url": "https://dccarghakhanchi.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Arghakhanchi"
+    },
+    {
+      "name": "District Coordination Committee of Gulmi",
+      "url": "https://dccgulmi.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Gulmi"
+    },
+    {
+      "name": "District Coordination Committee of Kapilvastu",
+      "url": "https://dcckapilvastu.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Kapilvastu"
+    },
+    {
+      "name": "District Coordination Committee of Palpa",
+      "url": "https://dccpalpa.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Palpa"
+    },
+    {
+      "name": "District Coordination Committee of Parasi",
+      "url": "https://dccnawalparasiwest.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Parasi"
+    },
+    {
+      "name": "District Coordination Committee of Rupandehi",
+      "url": "https://dccrupandehi.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Rupandehi"
     },
     {
       "name": "Election Commission",
@@ -674,6 +704,11 @@
       "name": "Karnali Pradesh | Office of Chief Minister and Council of Minister",
       "url": "http://ocmcm.karnali.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Kataari Municipality",
+      "url": "https://kataarimun.gov.np/",
+      "description": "Official Website of Kataari Municipality"
     },
     {
       "name": "Kathmandu Metropolitan City",
