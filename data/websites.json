@@ -171,9 +171,19 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
+      "name": "Department of Water Resources and Irrigation",
+      "url": "https://dwri.gov.np/",
+      "description": "Official Website of Department of Water Resource and Irrigation"
+    },
+    {
       "name": "District Administration Office of Bajhang",
       "url": "https://daobajhang.moha.gov.np/",
       "description": "Office of the District Administration Office of Bajhang"
+    },
+    {
+      "name": "District Administration Office of Syangja",
+      "url": "https://daosyangja.moha.gov.np/",
+      "description": "Office of the District Administration Office of Syangja"
     },
     {
       "name": "Election Commission",
