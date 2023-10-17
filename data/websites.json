@@ -71,6 +71,11 @@
       "description": "Central Beuro of Statistics"
     },
     {
+      "name": "Central Law Library",
+      "url": "http://cll.gov.np/",
+      "description": "Official Website of Central Law Library"
+    },
+    {
       "name": "Chandragiri Municipality",
       "url": "https://www.chandragirimun.gov.np/",
       "description": "Official website of Chandragiri Municipality"
@@ -126,6 +131,11 @@
       "description": "Office of the Department of Drug Administration under Ministry of Health"
     },
     {
+      "name": "Department of Electricity Development",
+      "url": "https://doed.gov.np/",
+      "description": "Office of the Department of Electricity Development under Ministry of Energy, Water Resources and Irrigation"
+    },
+    {
       "name": "Department of Hydrology and Meteorology",
       "url": "https://dhm.gov.np/",
       "description": "Office of the Department of Hydrology and Meteorology"
@@ -174,6 +184,11 @@
       "name": "Department of Transport Management",
       "url": "https://www.dotm.gov.np/",
       "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "Department of Urban Development and Building Construction",
+      "url": "https://dudbc.gov.np/",
+      "description": "Official Website of Department of Urban Development and Building Construction"
     },
     {
       "name": "Dhangadhi Sub-Metropolitan City",
@@ -573,7 +588,7 @@
     {
       "name": "District Administration Office of Banke",
       "url": "https://daobanke.moha.gov.np/",
-      "description": "Official Website Of District  Administration Office Of Banke"
+      "description": "Official Website Of District Administration Office Of Banke"
     },
     {
       "name": "Election Commission",
@@ -581,9 +596,14 @@
       "description": "Election Commission Nepal's Official Website"
     },
     {
+      "name": "Film Development Board",
+      "url": "https://film.gov.np/",
+      "description": "Film Development Board's Official Website"
+    },
+    {
       "name": "Gaindakot Municipality",
       "url": "https://www.gaindakotmun.gov.np/",
-      "description": "Official Website Gaindakot Municipality"
+      "description": "Official Website of Gaindakot Municipality"
     },
     {
       "name": "Galyang Municipality",
@@ -827,6 +847,11 @@
       "description": "Official Website of Nepal Government's NITC"
     },
     {
+      "name": "Nepal Agricultural Research Council",
+      "url": "https://narc.gov.np/",
+      "description": "Official Website of Nepal Agricultural Research Council"
+    },
+    {
       "name": "Nepal Engineering Council",
       "url": "https://nec.gov.np/",
       "description": "Nepal Engineering council's official website. It is responsible formulating policies and issuing professional licenses for engineering profession in Nepal."
@@ -835,6 +860,11 @@
       "name": "Nepal Government National Portal",
       "url": "http://www.nepal.gov.np/",
       "description": "The Official Portal of Government of Nepal"
+    },
+    {
+      "name": "Nepal Kanun Patrika",
+      "url": "https://nkp.gov.np/",
+      "description": "Official Website of Nepal Kanun Patrika"
     },
     {
       "name": "Nepal Law Commission",
@@ -900,6 +930,11 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Public Procurement Monitoring Office",
+      "url": "https://ppmo.gov.np/",
+      "description": "Official Website of Public Procurement Monitoring Office"
     },
     {
       "name": "Public Service Commission",
