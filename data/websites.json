@@ -676,6 +676,11 @@
       "description": "Election Commission Nepal's Official Website"
     },
     {
+      "name": "Embassy of Nepal, Australia",
+      "url": "http://www.necan.gov.np/",
+      "description": "Official Website of Embassy of Nepal for Australia"
+    },
+    {
       "name": "Film Development Board",
       "url": "https://film.gov.np/",
       "description": "Film Development Board's Official Website"
@@ -699,6 +704,11 @@
       "name": "Gandaki Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.gandaki.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Gauradaha Municipality",
+      "url": "https://gauradahamun.gov.np/",
+      "description": "Official Website of Gauradaha Municipality"
     },
     {
       "name": "General Post Office",
@@ -729,6 +739,11 @@
       "name": "Jiri Municipality",
       "url": "https://jirimun.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
+      "name": "Kamal Rural Municipality",
+      "url": "https://kamalmun.gov.np/",
+      "description": "Official Website of Kamal Rural Municipality"
     },
     {
       "name": "Karnali Pradesh",
