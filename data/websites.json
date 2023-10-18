@@ -56,6 +56,11 @@
       "description": "Official Website of Budhanilkantha Municipality"
     },
     {
+      "name": "Bhojpur Municipality",
+      "url": "https://bhojpurmun.gov.np/",
+      "description": "Official Website of Bhojpur Municipality"
+    },
+    {
       "name": "Bidur Municipality",
       "url": "https://bidurmun.gov.np/en",
       "description": "Official Website of Bidur Municipality"
@@ -184,6 +189,16 @@
       "name": "Department of Transport Management",
       "url": "https://www.dotm.gov.np/",
       "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "Department of Water Resources and Irrigation",
+      "url": "https://dwri.gov.np/",
+      "description": "Official Website of Department of Water Resource and Irrigation"
+    },
+    {
+      "name": "District Administration Office of Bajhang",
+      "url": "https://daobajhang.moha.gov.np/",
+      "description": "Office of the District Administration Office of Bajhang"
     },
     {
       "name": "Department of Urban Development and Building Construction",
@@ -721,6 +736,11 @@
       "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
+      "name": "Kataari Municipality",
+      "url": "https://kataarimun.gov.np/",
+      "description": "Official Website of Kataari Municipality"
+    },
+    {
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
@@ -1020,6 +1040,16 @@
       "name": "Ruru Rural Municipality",
       "url": "https://rurumun.gov.np/",
       "description": "Official Website Of Ruru Rural Municipality"
+    },
+    {
+      "name": "State Public Service Commission Gandaki",
+      "url": "https://ppsc.gandaki.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Gandaki"
+    },
+    {
+      "name": "State Public Service Commission Lumbini",
+      "url": "https://ppsc.lumbini.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Lumbini"
     },
     {
       "name": "Shailyashikhar Municipality",
