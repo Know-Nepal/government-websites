@@ -46,6 +46,11 @@
       "description": "Official Website of Bhajani Municipality"
     },
     {
+      "name": "Bharatpur Hospital",
+      "url": "https://bharatpurhospital.gov.np/",
+      "description": "Government Hospital Bharatpur Teaching Hospital ENT General Physician Dental"
+    },
+    {
       "name": "Bharatpur Municipality",
       "url": "https://bharatpurmun.gov.np/",
       "description": "Official Website of Bharatpur Municipality"
@@ -790,7 +795,6 @@
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
     },
-
     {
       "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.madhesh.gov.np/",
@@ -1025,6 +1029,11 @@
       "name": "Purchaudi Municipality",
       "url": "https://purchaudimun.gov.np/",
       "description": "Official Website of Purchaudi Municipality"
+    },
+    {
+      "name": "Radio Nepal",
+      "url": "https://radionepal.gov.np/",
+      "description": "This is a corporate website of Radio Broadcasting Service, Radio Nepal."
     },
     {
       "name": "Rainadevi Chhahara Rural Municipality",
