@@ -616,6 +616,11 @@
       "description": "Official Website Of District Coordination Committee of Arghakhanchi"
     },
     {
+      "name": "District Coordination Committee of Dang",
+      "url": "https://dccdang.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Dang"
+    },
+    {
       "name": "District Coordination Committee of Gulmi",
       "url": "https://dccgulmi.gov.np/",
       "description": "Official Website Of District Coordination Committee of Gulmi"
@@ -636,9 +641,34 @@
       "description": "Official Website Of District Coordination Committee of Parasi"
     },
     {
+      "name": "District Coordination Committee of Pyuthan",
+      "url": "https://dccpyuthan.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Pyuthan"
+    },
+    {
+      "name": "District Coordination Committee of Rolpa",
+      "url": "https://dccrolpa.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Rolpa"
+    },
+    {
+      "name": "District Coordination Committee of Rukum East",
+      "url": "https://dccrukumeast.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Rukum East"
+    },
+    {
+      "name": "District Coordination Committee of Rukum West",
+      "url": "https://dccrukumwest.gov.np/",
+      "description": "Official Website Of District Coordination Committee of "
+    },
+    {
       "name": "District Coordination Committee of Rupandehi",
       "url": "https://dccrupandehi.gov.np/",
       "description": "Official Website Of District Coordination Committee of Rupandehi"
+    },
+    {
+      "name": "District Coordination Committee of Salyan",
+      "url": "https://dccsalyan.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Salyan"
     },
     {
       "name": "Election Commission",
