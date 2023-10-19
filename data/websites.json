@@ -751,6 +751,11 @@
       "description": "Inland Revenue Department's Official Site"
     },
     {
+      "name": "Jaleshwor Municipality",
+      "url": "http://jaleshwormun.gov.np/",
+      "description": "Official website of Jaleshwor Municipality"
+    },
+    {
       "name": "Jiri Municipality",
       "url": "https://jirimun.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
@@ -1159,6 +1164,11 @@
       "name": "Urlabari Municipality",
       "url": "https://urlabarimun.gov.np/",
       "description": "Official Website Of Urlabari Municipality"
+    },
+    {
+      "name": "Waling Municipality",
+      "url": "https://walingmun.gov.np/",
+      "description": "Official Website of Waling Municipality"
     }
   ]
 }
