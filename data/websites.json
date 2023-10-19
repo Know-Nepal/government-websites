@@ -131,6 +131,11 @@
       "description": "Official Website for Deparment of Archaeology Nepal"
     },
     {
+      "name": "Department of Commerce and Supply Management",
+      "url": "https://doc.gov.np/",
+      "description": "Official Site of Department of Commerce and Supply Management, Kathmandu"
+    },
+    {
       "name": "Department of Customs",
       "url": "https://customs.gov.np/",
       "description": "Office of the Department of Customs under Ministry of Finance"
@@ -144,6 +149,11 @@
       "name": "Department of Electricity Development",
       "url": "https://doed.gov.np/",
       "description": "Office of the Department of Electricity Development under Ministry of Energy, Water Resources and Irrigation"
+    },
+    {
+      "name": "Department of Foreign Employment",
+      "url": "https://dofe.gov.np/",
+      "description": "Office of the Department of Foreign Employment under Ministry of Labour, Employment and Social Security"
     },
     {
       "name": "Department of Hydrology and Meteorology",
@@ -164,6 +174,11 @@
       "name": "Department of Mines and Geology",
       "url": "https://www.dmgnepal.gov.np/",
       "description": "Government body responsible for mining related activities in Nepal"
+    },
+    {
+      "name": "Department of National Id and Civil Registration",
+      "url": "https://donidcr.gov.np/",
+      "description": "Official Website for Department of National Id and Civil Registration"
     },
     {
       "name": "Department of National Parks and WildLife Conservation",
