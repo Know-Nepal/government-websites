@@ -631,6 +631,21 @@
       "description": "Official Website Of District Coordination Committee of Arghakhanchi"
     },
     {
+      "name": "District Coordination Committee of Banke",
+      "url": "https://dccbanke.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Banke"
+    },
+    {
+      "name": "District Coordination Committee of Bardiya",
+      "url": "https://dccbardiya.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Bardiya"
+    },
+    {
+      "name": "District Coordination Committee of Dailekh",
+      "url": "https://dccdailekh.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Dailekh"
+    },
+    {
       "name": "District Coordination Committee of Dang",
       "url": "https://dccdang.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dang"
@@ -639,6 +654,11 @@
       "name": "District Coordination Committee of Gulmi",
       "url": "https://dccgulmi.gov.np/",
       "description": "Official Website Of District Coordination Committee of Gulmi"
+    },
+    {
+      "name": "District Coordination Committee of Jajarkot",
+      "url": "https://dccjajarkot.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Jajarkot"
     },
     {
       "name": "District Coordination Committee of Kapilvastu",
@@ -673,7 +693,7 @@
     {
       "name": "District Coordination Committee of Rukum West",
       "url": "https://dccrukumwest.gov.np/",
-      "description": "Official Website Of District Coordination Committee of "
+      "description": "Official Website Of District Coordination Committee of Rukum West "
     },
     {
       "name": "District Coordination Committee of Rupandehi",
@@ -684,6 +704,11 @@
       "name": "District Coordination Committee of Salyan",
       "url": "https://dccsalyan.gov.np/",
       "description": "Official Website Of District Coordination Committee of Salyan"
+    },
+    {
+      "name": "District Coordination Committee of Surkhet",
+      "url": "https://dccsurkhet.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Surkhet"
     },
     {
       "name": "Election Commission",
