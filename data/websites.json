@@ -1016,6 +1016,15 @@
       "description": "Official Website of Nepal Government's NITC"
     },
     {
+      "items": [
+        {
+          "name": "National Youth Council",
+          "url": "https://nyc.gov.np/",
+          "description": "Official website of National Youth Council"
+        }
+      ]
+    },
+    {
       "name": "Nepal Agricultural Research Council",
       "url": "https://narc.gov.np/",
       "description": "Official Website of Nepal Agricultural Research Council"
