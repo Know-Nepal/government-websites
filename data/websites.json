@@ -671,6 +671,11 @@
       "description": "Official Website Of District Coordination Committee of Kapilvastu"
     },
     {
+      "name": "District Coordination Committee of Morang",
+      "url": "https://dccmorang.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Morang"
+    },
+    {
       "name": "District Coordination Committee of Palpa",
       "url": "https://dccpalpa.gov.np/",
       "description": "Official Website Of District Coordination Committee of Palpa"
@@ -881,6 +886,11 @@
       "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
+      "name": "Mahalaxmi Municipality",
+      "url": "https://mahalaxmimun.gov.np/",
+      "description": "Official Website of Mahalaxmi Municipality"
+    },
+    {
       "name": "Melauli Municipality",
       "url": "https://melaulimun.gov.np/",
       "description": "Official Website of Melauli Municipality"
@@ -1016,6 +1026,11 @@
       "description": "Official Website of Nepal Government's NITC"
     },
     {
+      "name": "National Planning Commission",
+      "url": "https://npc.gov.np/",
+      "description": "Official Website of National Planning Commission"
+    },
+    {
       "name": "Nepal Agricultural Research Council",
       "url": "https://narc.gov.np/",
       "description": "Official Website of Nepal Agricultural Research Council"
@@ -1129,6 +1144,11 @@
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+    },
+    {
+      "name": "Rangeli Municipality",
+      "url": "https://rangelimun.gov.np/",
+      "description": "Official Website Of Rangeli Municipality"
     },
     {
       "name": "Ratnanagar Municipality",
