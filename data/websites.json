@@ -661,9 +661,19 @@
       "description": "Official Website Of District Coordination Committee of Gulmi"
     },
     {
+      "name": "District Coordination Committee of Ilam",
+      "url": "https://dccilam.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Ilam"
+    },
+    {
       "name": "District Coordination Committee of Jajarkot",
       "url": "https://dccjajarkot.gov.np/",
       "description": "Official Website Of District Coordination Committee of Jajarkot"
+    },
+    {
+      "name": "District Coordination Committee of Jhapa",
+      "url": "https://dccjhapa.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Jhapa"
     },
     {
       "name": "District Coordination Committee of Kapilvastu",
@@ -674,6 +684,11 @@
       "name": "District Coordination Committee of Palpa",
       "url": "https://dccpalpa.gov.np/",
       "description": "Official Website Of District Coordination Committee of Palpa"
+    },
+    {
+      "name": "District Coordination Committee of Panchthar",
+      "url": "https://dccpanchthar.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Panchthar"
     },
     {
       "name": "District Coordination Committee of Parasi",
@@ -714,6 +729,11 @@
       "name": "District Coordination Committee of Surkhet",
       "url": "https://dccsurkhet.gov.np/",
       "description": "Official Website Of District Coordination Committee of Surkhet"
+    },
+    {
+      "name": "District Coordination Committee of Taplejung",
+      "url": "https://dcctaplejung.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Taplejung"
     },
     {
       "name": "Election Commission",
