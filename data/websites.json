@@ -46,6 +46,11 @@
       "description": "Official Website of Bhajani Municipality"
     },
     {
+      "name": "Bharatpur Hospital",
+      "url": "https://bharatpurhospital.gov.np/",
+      "description": "Government Hospital Bharatpur Teaching Hospital ENT General Physician Dental"
+    },
+    {
       "name": "Bharatpur Municipality",
       "url": "https://bharatpurmun.gov.np/",
       "description": "Official Website of Bharatpur Municipality"
@@ -54,6 +59,16 @@
       "name": "Budhanilkantha Municipality",
       "url": "https://budhanilkanthamun.gov.np/",
       "description": "Official Website of Budhanilkantha Municipality"
+    },
+    {
+      "name": "Budhi Ganga Hydropower Project",
+      "url": "https://bhp.gov.np/",
+      "description": "Official Website of Budhi Ganga Hydropower Project"
+    },
+    {
+      "name": "Bhojpur Municipality",
+      "url": "https://bhojpurmun.gov.np/",
+      "description": "Official Website of Bhojpur Municipality"
     },
     {
       "name": "Bidur Municipality",
@@ -121,6 +136,11 @@
       "description": "Official Website for Deparment of Archaeology Nepal"
     },
     {
+      "name": "Department of Commerce and Supply Management",
+      "url": "https://doc.gov.np/",
+      "description": "Official Site of Department of Commerce and Supply Management, Kathmandu"
+    },
+    {
       "name": "Department of Customs",
       "url": "https://customs.gov.np/",
       "description": "Office of the Department of Customs under Ministry of Finance"
@@ -134,6 +154,11 @@
       "name": "Department of Electricity Development",
       "url": "https://doed.gov.np/",
       "description": "Office of the Department of Electricity Development under Ministry of Energy, Water Resources and Irrigation"
+    },
+    {
+      "name": "Department of Foreign Employment",
+      "url": "https://dofe.gov.np/",
+      "description": "Office of the Department of Foreign Employment under Ministry of Labour, Employment and Social Security"
     },
     {
       "name": "Department of Hydrology and Meteorology",
@@ -154,6 +179,11 @@
       "name": "Department of Mines and Geology",
       "url": "https://www.dmgnepal.gov.np/",
       "description": "Government body responsible for mining related activities in Nepal"
+    },
+    {
+      "name": "Department of National Id and Civil Registration",
+      "url": "https://donidcr.gov.np/",
+      "description": "Official Website for Department of National Id and Civil Registration"
     },
     {
       "name": "Department of National Parks and WildLife Conservation",
@@ -184,6 +214,16 @@
       "name": "Department of Transport Management",
       "url": "https://www.dotm.gov.np/",
       "description": "Official Website of Department of Transport Management"
+    },
+    {
+      "name": "Department of Water Resources and Irrigation",
+      "url": "https://dwri.gov.np/",
+      "description": "Official Website of Department of Water Resource and Irrigation"
+    },
+    {
+      "name": "District Administration Office of Bajhang",
+      "url": "https://daobajhang.moha.gov.np/",
+      "description": "Office of the District Administration Office of Bajhang"
     },
     {
       "name": "Department of Urban Development and Building Construction",
@@ -701,6 +741,11 @@
       "description": "Election Commission Nepal's Official Website"
     },
     {
+      "name": "Embassy of Nepal, Australia",
+      "url": "http://www.necan.gov.np/",
+      "description": "Official Website of Embassy of Nepal for Australia"
+    },
+    {
       "name": "Film Development Board",
       "url": "https://film.gov.np/",
       "description": "Film Development Board's Official Website"
@@ -724,6 +769,11 @@
       "name": "Gandaki Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.gandaki.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Gauradaha Municipality",
+      "url": "https://gauradahamun.gov.np/",
+      "description": "Official Website of Gauradaha Municipality"
     },
     {
       "name": "General Post Office",
@@ -751,9 +801,24 @@
       "description": "Inland Revenue Department's Official Site"
     },
     {
+      "name": "Jaleshwor Municipality",
+      "url": "http://jaleshwormun.gov.np/",
+      "description": "Official website of Jaleshwor Municipality"
+    },
+    {
       "name": "Jiri Municipality",
       "url": "https://jirimun.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
+    },
+    {
+      "name": "Kamal Rural Municipality",
+      "url": "https://kamalmun.gov.np/",
+      "description": "Official Website of Kamal Rural Municipality"
+    },
+    {
+      "name": "Kamalamai Municipality",
+      "url": "https://kamalamaimun.gov.np/",
+      "description": "Official Website of Kamalamai Municipality"
     },
     {
       "name": "Karnali Pradesh",
@@ -766,6 +831,11 @@
       "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
+      "name": "Kataari Municipality",
+      "url": "https://kataarimun.gov.np/",
+      "description": "Official Website of Kataari Municipality"
+    },
+    {
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
@@ -774,6 +844,11 @@
       "name": "Kawasoti Municipality",
       "url": "https://www.kawasotimun.gov.np/",
       "description": "Official Website of Kawasoti Municipality"
+    },
+    {
+      "name": "Khandbari Municipality",
+      "url": "https://khandbarimun.gov.np/",
+      "description": "Official Website of Khandbari Municipality"
     },
     {
       "name": "Koshi Pradesh",
@@ -806,6 +881,11 @@
       "description": "National program for inclusive, accountable local governance and poverty reduction in Nepal."
     },
     {
+      "name": "Lumbini Development Trust",
+      "url": "https://lumbinidevtrust.gov.np/",
+      "description": "Official Website of Lumbini Development Trust"
+    },
+    {
       "name": "Lumbini Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.lumbini.gov.np/",
       "description": "Official Website of Government of Lumbini Pradesh Office of the Chief Minister and Council of Ministers"
@@ -815,7 +895,6 @@
       "url": "https://madhesh.gov.np/",
       "description": "Official Website of Portal to Madhesh Pradesh"
     },
-
     {
       "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.madhesh.gov.np/",
@@ -927,9 +1006,14 @@
       "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
     },
     {
+      "name": "National Dairy Development Board",
+      "url": "https://nddb.gov.np/",
+      "description": "Official Website of National Dairy Development Board"
+    },
+    {
       "name": "National Data Portal-Nepal",
       "url": "http://nationaldata.gov.np/",
-      "description": "National Data Portal Nepal"
+      "description": "Official Website of National Data Portal Nepal"
     },
     {
       "name": "National Examinations Board",
@@ -1052,9 +1136,29 @@
       "description": "Official Website of Purchaudi Municipality"
     },
     {
+      "name": "Putalibazar Municipality",
+      "url": "https://putalibazarmun.gov.np/",
+      "description": "Official Website of Putalibazar Municipality"
+    },
+    {
+      "name": "Radio Nepal",
+      "url": "https://radionepal.gov.np/",
+      "description": "This is a corporate website of Radio Broadcasting Service, Radio Nepal."
+    },
+    {
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+    },
+    {
+      "name": "Ratnanagar Municipality",
+      "url": "https://ratnanagarmun.gov.np/",
+      "description": "Official Website Of Ratnanagar Municipality"
+    },
+    {
+      "name": "Ratuwamai Municipality",
+      "url": "https://ratuwamaimun.gov.np/",
+      "description": "Official Website Of Ratuwamai Municipality"
     },
     {
       "name": "Resunga Municipality",
@@ -1065,6 +1169,16 @@
       "name": "Ruru Rural Municipality",
       "url": "https://rurumun.gov.np/",
       "description": "Official Website Of Ruru Rural Municipality"
+    },
+    {
+      "name": "State Public Service Commission Gandaki",
+      "url": "https://ppsc.gandaki.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Gandaki"
+    },
+    {
+      "name": "State Public Service Commission Lumbini",
+      "url": "https://ppsc.lumbini.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Lumbini"
     },
     {
       "name": "Shailyashikhar Municipality",
@@ -1135,6 +1249,11 @@
       "name": "Urlabari Municipality",
       "url": "https://urlabarimun.gov.np/",
       "description": "Official Website Of Urlabari Municipality"
+    },
+    {
+      "name": "Waling Municipality",
+      "url": "https://walingmun.gov.np/",
+      "description": "Official Website of Waling Municipality"
     }
   ]
 }
