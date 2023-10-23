@@ -595,17 +595,17 @@
       "url": "https://dccarghakhanchi.gov.np/",
       "description": "Official Website Of District Coordination Committee of Arghakhanchi"
     },
-      {
+    {
       "name": "District Coordination Committee of Banke",
       "url": "https://dccbanke.gov.np/",
       "description": "Official Website Of District Coordination Committee of Banke"
     },
-      {
+    {
       "name": "District Coordination Committee of Bardiya",
       "url": "https://dccbardiya.gov.np/",
       "description": "Official Website Of District Coordination Committee of Bardiya"
     },
-      {
+    {
       "name": "District Coordination Committee of Dailekh",
       "url": "https://dccdailekh.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dailekh"
@@ -685,10 +685,15 @@
       "url": "https://dccsalyan.gov.np/",
       "description": "Official Website Of District Coordination Committee of Salyan"
     },
-      {
+    {
       "name": "District Coordination Committee of Surkhet",
       "url": "https://dccsurkhet.gov.np/",
       "description": "Official Website Of District Coordination Committee of Surkhet"
+    },
+    {
+      "name": "District Coordination Committee of Taplejung",
+      "url": "https://dcctaplejung.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Taplejung"
     },
     {
       "name": "Election Commission",
