@@ -91,6 +91,11 @@
       "description": "Official Website of Central Law Library"
     },
     {
+      "name": "Centralized Email System, Government of Nepal",
+      "url": "https://mail.nepal.gov.np/",
+      "description": "Official Website of Centralized Email System, Government of Nepal"
+    },
+    {
       "name": "Chandragiri Municipality",
       "url": "https://www.chandragirimun.gov.np/",
       "description": "Official website of Chandragiri Municipality"
@@ -784,6 +789,11 @@
       "name": "Ghodaghodi Municipality",
       "url": "https://ghodaghodimun.gov.np/",
       "description": "Official Website of Ghodaghodi Municipality"
+    },
+    {
+      "name": "Ghorahi Sub-Metropolitan City",
+      "url": "https://ghorahimun.gov.np/",
+      "description": "Official Website of Ghorahi Sub-Metropolitan City"
     },
     {
       "name": "Godawari Municipality",
