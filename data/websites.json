@@ -36,6 +36,11 @@
       "description": "Official Website of Belauri Municipality"
     },
     {
+      "name": "Belbari Municipality",
+      "url": "https://belbarimun.gov.np/",
+      "description": "Official Website of Belbari Municipality"
+    },
+    {
       "name": "Bhadrapur Municipality",
       "url": "https://bhadrapurmun.gov.np/en",
       "description": "Official Website of Bhadrapur Municipality"
@@ -1144,6 +1149,11 @@
       "name": "Patan Municipality",
       "url": "https://patanmun.gov.np/",
       "description": "Official Website of Patan Municipality"
+    },
+    {
+      "name": "Phungling Municipality",
+      "url": "https://phunglingmun.gov.np/",
+      "description": "Official Website of Phungling Municipality"
     },
     {
       "name": "Public Procurement Monitoring Office",
