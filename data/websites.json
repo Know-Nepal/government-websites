@@ -41,11 +41,6 @@
       "description": "Official Website of Belbari Municipality"
     },
     {
-      "name": "Belbari Municipality",
-      "url": "https://belbarimun.gov.np/",
-      "description": "Official Website of Belbari Municipality"
-    },
-    {
       "name": "Bhadrapur Municipality",
       "url": "https://bhadrapurmun.gov.np/en",
       "description": "Official Website of Bhadrapur Municipality"
@@ -99,11 +94,6 @@
       "name": "Central Law Library",
       "url": "http://cll.gov.np/",
       "description": "Official Website of Central Law Library"
-    },
-    {
-      "name": "Centralized Email System, Government of Nepal",
-      "url": "https://mail.nepal.gov.np/",
-      "description": "Official Website of Centralized Email System, Government of Nepal"
     },
     {
       "name": "Centralized Email System, Government of Nepal",
@@ -686,19 +676,9 @@
       "description": "Official Website Of District Coordination Committee of Ilam"
     },
     {
-      "name": "District Coordination Committee of Ilam",
-      "url": "https://dccilam.gov.np/",
-      "description": "Official Website Of District Coordination Committee of Ilam"
-    },
-    {
       "name": "District Coordination Committee of Jajarkot",
       "url": "https://dccjajarkot.gov.np/",
       "description": "Official Website Of District Coordination Committee of Jajarkot"
-    },
-    {
-      "name": "District Coordination Committee of Jhapa",
-      "url": "https://dccjhapa.gov.np/",
-      "description": "Official Website Of District Coordination Committee of Jhapa"
     },
     {
       "name": "District Coordination Committee of Jhapa",
@@ -716,19 +696,9 @@
       "description": "Official Website Of District Coordination Committee of Morang"
     },
     {
-      "name": "District Coordination Committee of Morang",
-      "url": "https://dccmorang.gov.np/",
-      "description": "Official Website Of District Coordination Committee of Morang"
-    },
-    {
       "name": "District Coordination Committee of Palpa",
       "url": "https://dccpalpa.gov.np/",
       "description": "Official Website Of District Coordination Committee of Palpa"
-    },
-    {
-      "name": "District Coordination Committee of Panchthar",
-      "url": "https://dccpanchthar.gov.np/",
-      "description": "Official Website Of District Coordination Committee of Panchthar"
     },
     {
       "name": "District Coordination Committee of Panchthar",
@@ -774,11 +744,6 @@
       "name": "District Coordination Committee of Surkhet",
       "url": "https://dccsurkhet.gov.np/",
       "description": "Official Website Of District Coordination Committee of Surkhet"
-    },
-    {
-      "name": "District Coordination Committee of Taplejung",
-      "url": "https://dcctaplejung.gov.np/",
-      "description": "Official Website Of District Coordination Committee of Taplejung"
     },
     {
       "name": "District Coordination Committee of Taplejung",
@@ -834,11 +799,6 @@
       "name": "Ghodaghodi Municipality",
       "url": "https://ghodaghodimun.gov.np/",
       "description": "Official Website of Ghodaghodi Municipality"
-    },
-    {
-      "name": "Ghorahi Sub-Metropolitan City",
-      "url": "https://ghorahimun.gov.np/",
-      "description": "Official Website of Ghorahi Sub-Metropolitan City"
     },
     {
       "name": "Ghorahi Sub-Metropolitan City",
@@ -959,11 +919,6 @@
       "name": "Madhesh Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.madhesh.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
-    },
-    {
-      "name": "Mahalaxmi Municipality",
-      "url": "https://mahalaxmimun.gov.np/",
-      "description": "Official Website of Mahalaxmi Municipality"
     },
     {
       "name": "Mahalaxmi Municipality",
@@ -1206,11 +1161,6 @@
       "description": "Official Website of Phungling Municipality"
     },
     {
-      "name": "Phungling Municipality",
-      "url": "https://phunglingmun.gov.np/",
-      "description": "Official Website of Phungling Municipality"
-    },
-    {
       "name": "Public Procurement Monitoring Office",
       "url": "https://ppmo.gov.np/",
       "description": "Official Website of Public Procurement Monitoring Office"
@@ -1239,11 +1189,6 @@
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
-    },
-    {
-      "name": "Rangeli Municipality",
-      "url": "https://rangelimun.gov.np/",
-      "description": "Official Website Of Rangeli Municipality"
     },
     {
       "name": "Rangeli Municipality",
