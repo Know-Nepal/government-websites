@@ -18,7 +18,7 @@ jobs:
           json_file="data/websites.json"
           
           # Extract names from JSON and check if they are sorted
-          sorted_json=$(jq -c '.items | sort_by(.name)' "$json_file")
+          sorted_json=$(jq -c '.items | sort_by(.name | ascii_downcase)' "$json_file")
           original_json=$(jq -c '.items' "$json_file")
 
           
