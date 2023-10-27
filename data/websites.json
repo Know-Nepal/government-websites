@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "name": "Amargadhi Municipality",
-      "url": "https://amargadhimun.gov.np/",
-      "description": "Official Website of Amargadhi Municipality"
-    },
-    {
       "name": "Alternative Energy Promotion Centre",
       "url": "https://aepc.gov.np/",
       "description": "Government Body Responsible For Making Renewable Energy Mainstream Supply"
+    },
+    {
+      "name": "Amargadhi Municipality",
+      "url": "https://amargadhimun.gov.np/",
+      "description": "Official Website of Amargadhi Municipality"
     },
     {
       "name": "Arjundhara Municipality",
@@ -61,16 +61,6 @@
       "description": "Official Website of Bharatpur Municipality"
     },
     {
-      "name": "Budhanilkantha Municipality",
-      "url": "https://budhanilkanthamun.gov.np/",
-      "description": "Official Website of Budhanilkantha Municipality"
-    },
-    {
-      "name": "Budhi Ganga Hydropower Project",
-      "url": "https://bhp.gov.np/",
-      "description": "Official Website of Budhi Ganga Hydropower Project"
-    },
-    {
       "name": "Bhojpur Municipality",
       "url": "https://bhojpurmun.gov.np/",
       "description": "Official Website of Bhojpur Municipality"
@@ -84,6 +74,16 @@
       "name": "Birtamod Municipality",
       "url": "https://birtamodmun.gov.np/en",
       "description": "Official Website of Birtamod Municipality"
+    },
+    {
+      "name": "Budhanilkantha Municipality",
+      "url": "https://budhanilkanthamun.gov.np/",
+      "description": "Official Website of Budhanilkantha Municipality"
+    },
+    {
+      "name": "Budhi Ganga Hydropower Project",
+      "url": "https://bhp.gov.np/",
+      "description": "Official Website of Budhi Ganga Hydropower Project"
     },
     {
       "name": "Central Bureau of Statistics",
@@ -226,19 +226,14 @@
       "description": "Official Website of Department of Transport Management"
     },
     {
-      "name": "Department of Water Resources and Irrigation",
-      "url": "https://dwri.gov.np/",
-      "description": "Official Website of Department of Water Resource and Irrigation"
-    },
-    {
-      "name": "District Administration Office of Bajhang",
-      "url": "https://daobajhang.moha.gov.np/",
-      "description": "Office of the District Administration Office of Bajhang"
-    },
-    {
       "name": "Department of Urban Development and Building Construction",
       "url": "https://dudbc.gov.np/",
       "description": "Official Website of Department of Urban Development and Building Construction"
+    },
+    {
+      "name": "Department of Water Resources and Irrigation",
+      "url": "https://dwri.gov.np/",
+      "description": "Official Website of Department of Water Resource and Irrigation"
     },
     {
       "name": "Dhangadhi Sub-Metropolitan City",
@@ -249,6 +244,16 @@
       "name": "Dipayalsilgadhi Municipality",
       "url": "https://dipayalsilgadhimun.gov.np/",
       "description": "Official Website of Dipayalsilgadhi Municipality"
+    },
+    {
+      "name": "District Administration Office of Bajhang",
+      "url": "https://daobajhang.moha.gov.np/",
+      "description": "Office of the District Administration Office of Bajhang"
+    },
+    {
+      "name": "District Administration Office of Banke",
+      "url": "https://daobanke.moha.gov.np/",
+      "description": "Official Website Of District Administration Office Of Banke"
     },
     {
       "name": "District Administration Office, Achham",
@@ -536,16 +541,6 @@
       "description": "Official Website Of District Administration Office Of Rasuwa"
     },
     {
-      "name": "District Administration Office, Rukum East",
-      "url": "https://daorukumeast.moha.gov.np",
-      "description": "Official Website Of District Administration Office Of Rukum East"
-    },
-    {
-      "name": "District Administration Office, Rukum West",
-      "url": "https://daorukumwest.moha.gov.np",
-      "description": "Official Website Of District Administration Office Of Rukum West"
-    },
-    {
       "name": "District Administration Office, Rautahat",
       "url": "https://daorautahat.moha.gov.np",
       "description": "Official Website Of District Administration Office Of Rautahat"
@@ -554,6 +549,16 @@
       "name": "District Administration Office, Rolpa",
       "url": "https://daorolpa.moha.gov.np",
       "description": "Official Website Of District Administration Office Of Rolpa"
+    },
+    {
+      "name": "District Administration Office, Rukum East",
+      "url": "https://daorukumeast.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum East"
+    },
+    {
+      "name": "District Administration Office, Rukum West",
+      "url": "https://daorukumwest.moha.gov.np",
+      "description": "Official Website Of District Administration Office Of Rukum West"
     },
     {
       "name": "District Administration Office, Rupandehi",
@@ -634,11 +639,6 @@
       "name": "District Administration Office, Udayapur",
       "url": "https://daoudayapur.moha.gov.np",
       "description": "Official Website Of District Administration Office Of Udayapur"
-    },
-    {
-      "name": "District Administration Office of Banke",
-      "url": "https://daobanke.moha.gov.np/",
-      "description": "Official Website Of District Administration Office Of Banke"
     },
     {
       "name": "District Coordination Committee of Arghakhanchi",
@@ -1226,16 +1226,6 @@
       "description": "Official Website Of Ruru Rural Municipality"
     },
     {
-      "name": "State Public Service Commission Gandaki",
-      "url": "https://ppsc.gandaki.gov.np/",
-      "description": "Official Website of State PubliC Service Comission Gandaki"
-    },
-    {
-      "name": "State Public Service Commission Lumbini",
-      "url": "https://ppsc.lumbini.gov.np/",
-      "description": "Official Website of State PubliC Service Comission Lumbini"
-    },
-    {
       "name": "Shailyashikhar Municipality",
       "url": "https://shailyashikharmun.gov.np/",
       "description": "Official Website Of Shailyashikhar Municipality"
@@ -1244,6 +1234,16 @@
       "name": "Shuklaphanta Municipality",
       "url": "https://shuklaphantamun.gov.np/",
       "description": "Official Website Of Shuklaphanta Municipality"
+    },
+    {
+      "name": "State Public Service Commission Gandaki",
+      "url": "https://ppsc.gandaki.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Gandaki"
+    },
+    {
+      "name": "State Public Service Commission Lumbini",
+      "url": "https://ppsc.lumbini.gov.np/",
+      "description": "Official Website of State PubliC Service Comission Lumbini"
     },
     {
       "name": "Sudurpaschim Pradesh",
@@ -1286,14 +1286,14 @@
       "description": "Official website of Tikapur Municipality"
     },
     {
-      "name": "Tokha Municipality",
-      "url": "https://tokhamun.gov.np/",
-      "description": "Official Website Of Tokha Municipality"
-    },
-    {
       "name": "Tilottama Municipality",
       "url": "https://www.tilottamamun.gov.np/en",
       "description": "Official Website Of Tilottama Municipality"
+    },
+    {
+      "name": "Tokha Municipality",
+      "url": "https://tokhamun.gov.np/",
+      "description": "Official Website Of Tokha Municipality"
     },
     {
       "name": "Transport Management Office, Driving License, Thulobharyang",
