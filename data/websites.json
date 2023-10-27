@@ -21,6 +21,16 @@
       "description": "Armed Police Force(APF) is the largest police force in Nepal."
     },
     {
+      "name": "Bagmati Pradesh | Ministry of Economic Affairs and Planning, Bagmati Province",
+      "url": "https://moeap.bagamati.gov.np/",
+      "description": "Official Website of Government of Bagmati Pradesh Office of Economic Affairs and Planning"
+    },
+    {
+      "name": "Bagmati Pradesh | Ministry of Land Management, Agriculture & Cooperative",
+      "url": "http://molmac.bagamati.gov.np/",
+      "description": "Official Website of Government of Bagmati Pradesh Office of Land Management, Agriculture & Cooperative"
+    },
+    {
       "name": "Bagmati Pradesh | Office of Chief Minister and Council of Minister",
       "url": "http://ocmcm.bagamati.gov.np/",
       "description": "Official Website of Government of Bagmati Pradesh Office of the Chief Minister and Council of Ministers"
@@ -874,6 +884,11 @@
       "name": "Koshi Pradesh",
       "url": "https://koshi.gov.np/",
       "description": "Official Website of Portal to Koshi Pradesh"
+    },
+    {
+      "name": "Koshi Pradesh | Ministry of Land Management, Agriculture and Cooperatives",
+      "url": "https://molmac.p1.gov.np/",
+      "description": "Official Website of Government of Koshi Pradesh Office of Land Management, Agriculture and Cooperatives"
     },
     {
       "name": "Koshi Pradesh | Office of Chief Minister and Council of Minister",
