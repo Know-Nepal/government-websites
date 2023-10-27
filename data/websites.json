@@ -896,6 +896,11 @@
       "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
     },
     {
+      "name": "Letang Municipality",
+      "url": "https://letangmun.gov.np/",
+      "description": "Official Website of Letang Municipality"
+    },
+    {
       "name": "Local Governance and Community Development Programme",
       "url": "http://lgcdp.gov.np/",
       "description": "National program for inclusive, accountable local governance and poverty reduction in Nepal."
@@ -1166,6 +1171,11 @@
       "description": "Official Website of Patan Municipality"
     },
     {
+      "name": "Pathari Shanishchare Municipality",
+      "url": "https://patharishanishcharemun.gov.np/",
+      "description": "Official Website of Pathari Shanishchare Municipality"
+    },
+    {
       "name": "Phungling Municipality",
       "url": "https://phunglingmun.gov.np/",
       "description": "Official Website of Phungling Municipality"
@@ -1231,6 +1241,11 @@
       "description": "Official Website Of Shailyashikhar Municipality"
     },
     {
+      "name": "Shivasatakshi Municipality",
+      "url": "https://shivasatakshimun.gov.np/",
+      "description": "Official Website of Shivasatakshi Municipality"
+    },
+    {
       "name": "Shuklaphanta Municipality",
       "url": "https://shuklaphantamun.gov.np/",
       "description": "Official Website Of Shuklaphanta Municipality"
@@ -1254,6 +1269,16 @@
       "name": "Sudurpaschim Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.sudurpashchim.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Sundarharaicha Municipality",
+      "url": "https://sundarharaichamun.gov.np/",
+      "description": "Official Website of Sundarharaicha Municipality"
+    },
+    {
+      "name": "Sunwarshi Municipality",
+      "url": "https://sunawarshimun.gov.np/",
+      "description": "Official Website Of Sunwarshi Municipality"
     },
     {
       "name": "Supreme Court",
