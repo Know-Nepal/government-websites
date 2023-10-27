@@ -921,14 +921,14 @@
       "description": "Official Website of Office of Chief Minister and Council of Minister"
     },
     {
-      "name": "Madi Municipality Office, Sankhuwasabha",
-      "url": "https://madimun.gov.np/",
-      "description": "Official Website of Madi Municipality Office, Sankhuwasabha"
-    },
-    {
       "name": "Madi Municipality",
       "url": "https://madimunchitwan.gov.np/",
       "description": "Official Website of Madi Municipality"
+    },
+    {
+      "name": "Madi Municipality Office, Sankhuwasabha",
+      "url": "https://madimun.gov.np/",
+      "description": "Official Website of Madi Municipality Office, Sankhuwasabha"
     },
     {
       "name": "Mahalaxmi Municipality",
