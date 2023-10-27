@@ -1,9 +1,6 @@
 name: Check JSON
 
-on: 
-  push:
-    branches:
-      - main
+on: [push, pull_request]
 
 jobs:
   check-alphabetical-order:
