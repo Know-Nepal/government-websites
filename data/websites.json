@@ -1076,14 +1076,14 @@
       "description": "Official Website of Nepal Government's NITC"
     },
     {
-      "name": "National Youth Council",
-      "url": "https://nyc.gov.np/",
-      "description": "Official website of National Youth Council"
-    },
-    {
       "name": "National Planning Commission",
       "url": "https://npc.gov.np/",
       "description": "Official Website of National Planning Commission"
+    },
+    {
+      "name": "National Youth Council",
+      "url": "https://nyc.gov.np/",
+      "description": "Official website of National Youth Council"
     },
     {
       "name": "Nepal Agricultural Research Council",
