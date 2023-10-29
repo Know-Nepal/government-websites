@@ -676,6 +676,11 @@
       "description": "Official Website Of District Coordination Committee of Bardiya"
     },
     {
+      "name": "District Coordination Committee of Bhojpur",
+      "url": "https://dccbhojpur.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Bhojpur"
+    },
+    {
       "name": "District Coordination Committee of Dailekh",
       "url": "https://dccdailekh.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dailekh"
@@ -684,6 +689,11 @@
       "name": "District Coordination Committee of Dang",
       "url": "https://dccdang.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dang"
+    },
+    {
+      "name": "District Coordination Committee of Dhankuta",
+      "url": "https://dccdhankuta.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Dhankuta"
     },
     {
       "name": "District Coordination Committee of Gulmi",
@@ -761,6 +771,16 @@
       "description": "Official Website Of District Coordination Committee of Salyan"
     },
     {
+      "name": "District Coordination Committee of Sankhuwasabha",
+      "url": "https://dccsankhuwasabha.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Sankhuwasabha"
+    },
+    {
+      "name": "District Coordination Committee of Sunsari",
+      "url": "https://dccsunsari.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Sunsari"
+    },
+    {
       "name": "District Coordination Committee of Surkhet",
       "url": "https://dccsurkhet.gov.np/",
       "description": "Official Website Of District Coordination Committee of Surkhet"
@@ -769,6 +789,11 @@
       "name": "District Coordination Committee of Taplejung",
       "url": "https://dcctaplejung.gov.np/",
       "description": "Official Website Of District Coordination Committee of Taplejung"
+    },
+    {
+      "name": "District Coordination Committee of Terhathum",
+      "url": "https://dccterhathum.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Terhathum"
     },
     {
       "name": "Election Commission",
