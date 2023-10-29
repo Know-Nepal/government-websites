@@ -781,6 +781,11 @@
       "description": "Official Website of Gaindakot Municipality"
     },
     {
+      "name": "Galkot Municipality",
+      "url": "https://galkotmun.gov.np/",
+      "description": "Official Website of Galkot Municipality"
+    },
+    {
       "name": "Galyang Municipality",
       "url": "https://galyangmun.gov.np/",
       "description": "Official Website of Galyang Municipality"
@@ -909,6 +914,11 @@
       "name": "Land Management and Training Center",
       "url": "https://lmtc.gov.np/",
       "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
+    },
+    {
+      "name": "Lekbeshi Municipality",
+      "url": "https://lekbeshimun.gov.np/",
+      "description": "Official Website Of Lekbeshi Municipality"
     },
     {
       "name": "Letang Municipality",
@@ -1059,6 +1069,11 @@
       "name": "Ministry of Women, Children and Senior Citizen (MOWCSC)",
       "url": "https://mowcsc.gov.np",
       "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
+    },
+    {
+      "name": "Nalgaad Municipality",
+      "url": "https://tribeninalgaadmun.gov.np/",
+      "description": "Official Website of Nalgaad Municipality"
     },
     {
       "name": "National Dairy Development Board",
@@ -1229,6 +1244,11 @@
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+    },
+    {
+      "name": "Rajpur Municipality",
+      "url": "https://rajpurmunrautahat.gov.np/",
+      "description": "Official Website Of Rajpur Municipality"
     },
     {
       "name": "Rangeli Municipality",
