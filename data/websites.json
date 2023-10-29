@@ -181,6 +181,11 @@
       "description": "Office of the Department of Electricity Development under Ministry of Energy, Water Resources and Irrigation"
     },
     {
+      "name": "Department of Food Technology and Quality Control",
+      "url": "https://dftqc.gov.np/",
+      "description": "Office of the Department of Food Technology and Quality Control"
+    },
+    {
       "name": "Department of Foreign Employment",
       "url": "https://dofe.gov.np/",
       "description": "Office of the Department of Foreign Employment under Ministry of Labour, Employment and Social Security"
@@ -871,6 +876,11 @@
       "description": "Official Website of Gramthan Rural Municipality"
     },
     {
+      "name": "Health Insurance Board",
+      "url": "https://hib.gov.np/",
+      "description": "Official Website of Health Insurance Board"
+    },
+    {
       "name": "Inland Revenue Department",
       "url": "https://ird.gov.np/",
       "description": "Inland Revenue Department's Official Site"
@@ -904,6 +914,11 @@
       "name": "Kanepokhari Rural Municipality",
       "url": "https://kanepokharimun.gov.np/",
       "description": "Official Website of Kanepokhari Rural Municipality"
+    },
+    {
+      "name": "Kanti Children's Hospital",
+      "url": "https://www.kantichildrenhospital.gov.np/",
+      "description": "Official Website of Kanti Children's Hospital"
     },
     {
       "name": "Karnali Pradesh",
@@ -1026,6 +1041,11 @@
       "description": "Official Website of Mahalaxmi Municipality"
     },
     {
+      "name": "Medical Education Commission",
+      "url": "https://mec.gov.np/",
+      "description": "Official Website of Medical Education Commission"
+    },
+    {
       "name": "Melauli Municipality",
       "url": "https://melaulimun.gov.np/",
       "description": "Official Website of Melauli Municipality"
@@ -1139,6 +1159,11 @@
       "name": "Nalgaad Municipality",
       "url": "https://tribeninalgaadmun.gov.np/",
       "description": "Official Website of Nalgaad Municipality"
+    },
+    {
+      "name": "National Archives of Nepal",
+      "url": "http://narchives.gov.np/",
+      "description": "Official Website of National Archives of Nepal"
     },
     {
       "name": "National Dairy Development Board",
@@ -1279,6 +1304,11 @@
       "name": "Pokhara Metropolitan City",
       "url": "https://pokharamun.gov.np/",
       "description": "Official Website of Pokhara Metropolitan City"
+    },
+    {
+      "name": "Provincial and Local Governance Support Program",
+      "url": "https://plgsp.gov.np/",
+      "description": "Official Website of Provincial and Local Governance Support Program"
     },
     {
       "name": "Public Procurement Monitoring Office",
