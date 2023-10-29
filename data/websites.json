@@ -96,6 +96,11 @@
       "description": "Official Website of Budhi Ganga Hydropower Project"
     },
     {
+      "name": "Budhiganga Rural Municipality",
+      "url": "https://budhigangamunmorang.gov.np/",
+      "description": "Official Website of Budhiganga Rural Municipality"
+    },
+    {
       "name": "Central Bureau of Statistics",
       "url": "https://cbs.gov.np/",
       "description": "Central Beuro of Statistics"
@@ -254,6 +259,11 @@
       "name": "Dhangadhi Sub-Metropolitan City",
       "url": "https://dhangadhimun.gov.np/",
       "description": "Official Website of Dhangadhi Sub-Metropolitan City"
+    },
+    {
+      "name": "Dhanpalthan Rural Municipality",
+      "url": "https://dhanapalthanmun.gov.np/",
+      "description": "Official Website of Dhanpalthan Rural Municipality"
     },
     {
       "name": "Dipayalsilgadhi Municipality",
@@ -671,6 +681,11 @@
       "description": "Official Website Of District Coordination Committee of Bardiya"
     },
     {
+      "name": "District Coordination Committee of Bhojpur",
+      "url": "https://dccbhojpur.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Bhojpur"
+    },
+    {
       "name": "District Coordination Committee of Dailekh",
       "url": "https://dccdailekh.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dailekh"
@@ -679,6 +694,11 @@
       "name": "District Coordination Committee of Dang",
       "url": "https://dccdang.gov.np/",
       "description": "Official Website Of District Coordination Committee of Dang"
+    },
+    {
+      "name": "District Coordination Committee of Dhankuta",
+      "url": "https://dccdhankuta.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Dhankuta"
     },
     {
       "name": "District Coordination Committee of Gulmi",
@@ -756,6 +776,16 @@
       "description": "Official Website Of District Coordination Committee of Salyan"
     },
     {
+      "name": "District Coordination Committee of Sankhuwasabha",
+      "url": "https://dccsankhuwasabha.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Sankhuwasabha"
+    },
+    {
+      "name": "District Coordination Committee of Sunsari",
+      "url": "https://dccsunsari.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Sunsari"
+    },
+    {
       "name": "District Coordination Committee of Surkhet",
       "url": "https://dccsurkhet.gov.np/",
       "description": "Official Website Of District Coordination Committee of Surkhet"
@@ -764,6 +794,11 @@
       "name": "District Coordination Committee of Taplejung",
       "url": "https://dcctaplejung.gov.np/",
       "description": "Official Website Of District Coordination Committee of Taplejung"
+    },
+    {
+      "name": "District Coordination Committee of Terhathum",
+      "url": "https://dccterhathum.gov.np/",
+      "description": "Official Website Of District Coordination Committee of Terhathum"
     },
     {
       "name": "Election Commission",
@@ -784,6 +819,11 @@
       "name": "Gaindakot Municipality",
       "url": "https://www.gaindakotmun.gov.np/",
       "description": "Official Website of Gaindakot Municipality"
+    },
+    {
+      "name": "Galkot Municipality",
+      "url": "https://galkotmun.gov.np/",
+      "description": "Official Website of Galkot Municipality"
     },
     {
       "name": "Galyang Municipality",
@@ -831,6 +871,11 @@
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
     },
     {
+      "name": "Gramthan Rural Municipality",
+      "url": "https://gramthanmun.gov.np/",
+      "description": "Official Website of Gramthan Rural Municipality"
+    },
+    {
       "name": "Health Insurance Board",
       "url": "https://hib.gov.np/",
       "description": "Official Website of Health Insurance Board"
@@ -839,6 +884,11 @@
       "name": "Inland Revenue Department",
       "url": "https://ird.gov.np/",
       "description": "Inland Revenue Department's Official Site"
+    },
+    {
+      "name": "Jahada Rural Municipality",
+      "url": "https://jahadamun.gov.np/",
+      "description": "Official Website of Jahada Rural Municipality"
     },
     {
       "name": "Jaleshwor Municipality",
@@ -861,6 +911,11 @@
       "description": "Official Website of Kamalamai Municipality"
     },
     {
+      "name": "Kanepokhari Rural Municipality",
+      "url": "https://kanepokharimun.gov.np/",
+      "description": "Official Website of Kanepokhari Rural Municipality"
+    },
+    {
       "name": "Kanti Children's Hospital",
       "url": "https://www.kantichildrenhospital.gov.np/",
       "description": "Official Website of Kanti Children's Hospital"
@@ -881,6 +936,11 @@
       "description": "Official Website of Kataari Municipality"
     },
     {
+      "name": "Katahari Rural Municipality",
+      "url": "https://kataharimun.gov.np/",
+      "description": "Official Website of Katahari Rural Municipality"
+    },
+    {
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
@@ -889,6 +949,11 @@
       "name": "Kawasoti Municipality",
       "url": "https://www.kawasotimun.gov.np/",
       "description": "Official Website of Kawasoti Municipality"
+    },
+    {
+      "name": "Kerabari Rural Municipality",
+      "url": "https://kerabarimun.gov.np/",
+      "description": "Official Website of Kerabari Rural Municipality"
     },
     {
       "name": "Khandbari Municipality",
@@ -924,6 +989,11 @@
       "name": "Land Management and Training Center",
       "url": "https://lmtc.gov.np/",
       "description": "Land Management and Training Center(LMTC) conducts trainings and runs diploma courses related to Geomatics Engineering"
+    },
+    {
+      "name": "Lekbeshi Municipality",
+      "url": "https://lekbeshimun.gov.np/",
+      "description": "Official Website Of Lekbeshi Municipality"
     },
     {
       "name": "Letang Municipality",
@@ -979,6 +1049,11 @@
       "name": "Melauli Municipality",
       "url": "https://melaulimun.gov.np/",
       "description": "Official Website of Melauli Municipality"
+    },
+    {
+      "name": "Miklajung Rural Municipality, Morang",
+      "url": "https://miklajungmunmorang.gov.np/",
+      "description": "Official Website of Miklajung Rural Municipality, Morang"
     },
     {
       "name": "Ministry of Agriculture and Livestock Development (MOALD)",
@@ -1079,6 +1154,11 @@
       "name": "Ministry of Women, Children and Senior Citizen (MOWCSC)",
       "url": "https://mowcsc.gov.np",
       "description": "Official Website Of Ministry of Women, Children and Senior Citizen (MOWCSC)"
+    },
+    {
+      "name": "Nalgaad Municipality",
+      "url": "https://tribeninalgaadmun.gov.np/",
+      "description": "Official Website of Nalgaad Municipality"
     },
     {
       "name": "National Archives of Nepal",
@@ -1259,6 +1339,11 @@
       "name": "Rainadevi Chhahara Rural Municipality",
       "url": "https://rainadevichhaharamun.gov.np/",
       "description": "Official Website Of Rainadevi Chhahara Rural Municipality"
+    },
+    {
+      "name": "Rajpur Municipality",
+      "url": "https://rajpurmunrautahat.gov.np/",
+      "description": "Official Website Of Rajpur Municipality"
     },
     {
       "name": "Rangeli Municipality",
