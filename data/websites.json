@@ -96,6 +96,11 @@
       "description": "Official Website of Budhi Ganga Hydropower Project"
     },
     {
+      "name": "Budhiganga Rural Municipality",
+      "url": "https://budhigangamunmorang.gov.np/",
+      "description": "Official Website of Budhiganga Rural Municipality"
+    },
+    {
       "name": "Central Bureau of Statistics",
       "url": "https://cbs.gov.np/",
       "description": "Central Beuro of Statistics"
@@ -249,6 +254,11 @@
       "name": "Dhangadhi Sub-Metropolitan City",
       "url": "https://dhangadhimun.gov.np/",
       "description": "Official Website of Dhangadhi Sub-Metropolitan City"
+    },
+    {
+      "name": "Dhanpalthan Rural Municipality",
+      "url": "https://dhanapalthanmun.gov.np/",
+      "description": "Official Website of Dhanpalthan Rural Municipality"
     },
     {
       "name": "Dipayalsilgadhi Municipality",
@@ -826,9 +836,19 @@
       "description": "Government of Nepal Ministry Of Youth and Sports Official Site"
     },
     {
+      "name": "Gramthan Rural Municipality",
+      "url": "https://gramthanmun.gov.np/",
+      "description": "Official Website of Gramthan Rural Municipality"
+    },
+    {
       "name": "Inland Revenue Department",
       "url": "https://ird.gov.np/",
       "description": "Inland Revenue Department's Official Site"
+    },
+    {
+      "name": "Jahada Rural Municipality",
+      "url": "https://jahadamun.gov.np/",
+      "description": "Official Website of Jahada Rural Municipality"
     },
     {
       "name": "Jaleshwor Municipality",
@@ -851,6 +871,11 @@
       "description": "Official Website of Kamalamai Municipality"
     },
     {
+      "name": "Kanepokhari Rural Municipality",
+      "url": "https://kanepokharimun.gov.np/",
+      "description": "Official Website of Kanepokhari Rural Municipality"
+    },
+    {
       "name": "Karnali Pradesh",
       "url": "http://karnali.gov.np/",
       "description": "Official Website of Portal to Karnali Pradesh"
@@ -866,6 +891,11 @@
       "description": "Official Website of Kataari Municipality"
     },
     {
+      "name": "Katahari Rural Municipality",
+      "url": "https://kataharimun.gov.np/",
+      "description": "Official Website of Katahari Rural Municipality"
+    },
+    {
       "name": "Kathmandu Metropolitan City",
       "url": "https://kathmandu.gov.np/?lang=en",
       "description": "Official Website of Government of Kathmandu Metropolitan City"
@@ -874,6 +904,11 @@
       "name": "Kawasoti Municipality",
       "url": "https://www.kawasotimun.gov.np/",
       "description": "Official Website of Kawasoti Municipality"
+    },
+    {
+      "name": "Kerabari Rural Municipality",
+      "url": "https://kerabarimun.gov.np/",
+      "description": "Official Website of Kerabari Rural Municipality"
     },
     {
       "name": "Khandbari Municipality",
@@ -959,6 +994,11 @@
       "name": "Melauli Municipality",
       "url": "https://melaulimun.gov.np/",
       "description": "Official Website of Melauli Municipality"
+    },
+    {
+      "name": "Miklajung Rural Municipality, Morang",
+      "url": "https://miklajungmunmorang.gov.np/",
+      "description": "Official Website of Miklajung Rural Municipality, Morang"
     },
     {
       "name": "Ministry of Agriculture and Livestock Development (MOALD)",
