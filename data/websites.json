@@ -961,6 +961,11 @@
       "description": "Official Website of Khandbari Municipality"
     },
     {
+      "name": "Kirtipur Municipality",
+      "url": "https://kirtipurmun.gov.np/",
+      "description": "Official Website of Kirtipur Municipality"
+    },
+    {
       "name": "Koshi Pradesh",
       "url": "https://koshi.gov.np/",
       "description": "Official Website of Portal to Koshi Pradesh"
@@ -1039,6 +1044,11 @@
       "name": "Mahalaxmi Municipality",
       "url": "https://mahalaxmimun.gov.np/",
       "description": "Official Website of Mahalaxmi Municipality"
+    },
+    {
+      "name": "Mechinagar Municipality",
+      "url": "https://mechinagarmun.gov.np/",
+      "description": "Official Website of Mechinagar Municipality"
     },
     {
       "name": "Medical Education Commission",
@@ -1279,6 +1289,11 @@
       "name": "Online Driving License System",
       "url": "https://applydl.dotm.gov.np/",
       "description": "The Online Driving License System is a web application providing services related to driving license registration and operation. It is a part of the Transport Management Information System (TMIS) developed by the Department of Transport Management (DoTM)."
+    },
+    {
+      "name": "Panauti Municipality",
+      "url": "https://panautimun.gov.np/",
+      "description": "Official Website of Panauti Municipality"
     },
     {
       "name": "Parshuram Municipality",
