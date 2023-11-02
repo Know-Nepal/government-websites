@@ -51,6 +51,11 @@
       "description": "Official Website of Belbari Municipality"
     },
     {
+      "name": "Besisahar Municipality",
+      "url": "https://besishaharmun.gov.np/",
+      "description": "Official Website of Besisahar Municipality"
+    },
+    {
       "name": "Bhadrapur Municipality",
       "url": "https://bhadrapurmun.gov.np/en",
       "description": "Official Website of Bhadrapur Municipality"
@@ -1449,6 +1454,11 @@
       "name": "Sudurpaschim Pradesh | Office of Chief Minister and Council of Minister",
       "url": "https://ocmcm.sudurpashchim.gov.np/",
       "description": "Official Website of Office of Chief Minister and Council of Minister"
+    },
+    {
+      "name": "Sundarbazar Municipality",
+      "url": "https://sundarbazarmun.gov.np/",
+      "description": "Official Website of Sundarbazar Municipality"
     },
     {
       "name": "Sundarharaicha Municipality",
