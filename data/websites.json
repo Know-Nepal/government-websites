@@ -1127,8 +1127,13 @@
     },
     {
       "name": "Ministry of Education, Science and Technology (MOE)",
-      "url": "https://moe.gov.np",
+      "url": "https://moest.gov.np",
       "description": "Official Website Of Ministry of Education, Science and Technology (MOE)"
+    },
+    {
+      "name": "Ministry of Education, Science and Technology (MOE) Curriculum Development Center",
+      "url": "https://moecdc.gov.np",
+      "description": "Official Website Of Ministry of Education, Science and Technology (MOE) Curriculum Development Center"
     },
     {
       "name": "Ministry of Energy, Water Resources and Irrigation (MOEWRI)",
