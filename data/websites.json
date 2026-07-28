@@ -1529,6 +1529,16 @@
       "name": "Waling Municipality",
       "url": "https://walingmun.gov.np/",
       "description": "Official Website of Waling Municipality"
+    },
+    {
+      "name": "Parliament of Nepal",
+      "url": "https://www.parliament.gov.np/",
+      "description": "Official Website of the Federal Parliament of Nepal"
+    },
+    {
+      "name": "National Examinations Board (SEE)",
+      "url": "https://see.gov.np/",
+      "description": "Official Website for the Secondary Education Examination (SEE) under National Examinations Board"
     }
   ]
 }
