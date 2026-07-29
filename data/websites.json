@@ -1341,6 +1341,11 @@
       "description": "Official Website of Panauti Municipality"
     },
     {
+      "name": "Parliament of Nepal",
+      "url": "https://www.parliament.gov.np/",
+      "description": "Official Website of the Federal Parliament of Nepal"
+    },
+    {
       "name": "Parshuram Municipality",
       "url": "https://parshurammun.gov.np/",
       "description": "Official Website of Parshuram Municipality"
@@ -1354,11 +1359,6 @@
       "name": "Pathari Shanishchare Municipality",
       "url": "https://patharishanishcharemun.gov.np/",
       "description": "Official Website of Pathari Shanishchare Municipality"
-    },
-    {
-      "name": "Parliament of Nepal",
-      "url": "https://www.parliament.gov.np/",
-      "description": "Official Website of the Federal Parliament of Nepal"
     },
     {
       "name": "Phungling Municipality",
