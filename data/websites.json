@@ -1231,6 +1231,11 @@
       "description": "National Examinations Board is the board that organizes the Higher Secondary examination and education in Nepal"
     },
     {
+      "name": "National Examinations Board (SEE)",
+      "url": "https://see.gov.np/",
+      "description": "Official Website for the Secondary Education Examination (SEE) under National Examinations Board"
+    },
+    {
       "name": "National Health Research Council",
       "url": "https://nhrc.gov.np/",
       "description": "Official Website of NHRC"
@@ -1334,6 +1339,11 @@
       "name": "Panauti Municipality",
       "url": "https://panautimun.gov.np/",
       "description": "Official Website of Panauti Municipality"
+    },
+    {
+      "name": "Parliament of Nepal",
+      "url": "https://www.parliament.gov.np/",
+      "description": "Official Website of the Federal Parliament of Nepal"
     },
     {
       "name": "Parshuram Municipality",
